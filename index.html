@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Aber Uni Exam Timetabling - Computer Science</title>
+		<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+		<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="jquery.csv.js"></script>
+		<style>
+			.footer {
+				position:fixed;
+				left:0px;
+				bottom:0px;
+				height:30px;
+				width:100%;
+				color:#494949;
+				background-color: #E7A555;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="page-header">
+				<h1>
+					Aberystwyth University's Exam Timetable
+				</h1>
+			</div>
+			<form class="form-search pull-right" id="search" onsubmit="return false;">
+				<input type="text" class="input-medium search-query" placeholder="Department Name">
+				<button type="submit" class="btn">Search</button>
+				<button type="button" id="clear" class="btn">Clear</button>
+			</form>
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th><a href="#" id="sortModule">Module Code</a></th>
+						<th>Title of the exam</th>
+						<th>Student No</th>
+						<th>Room(s)</th>
+						<th>Exam Date</th>
+						<th>M/A?</th>
+						<th>Duration</th>
+					</tr>
+				</thead>
+				<tbody class="data">
+
+				</tbody>
+			</table>
+			<br />
+		</div>
+		<div class="footer">
+			<div class="container">
+				<h6 class="pull-right">
+					Lovingly Made by <a href="http://twitter.com/samsherar">Sam Sherar</a> using <a href="http://twitter.github.io/bootstrap/">Twitter Bootstrap</a> and <a href="http://jquery.com">jQuery</a>
+				</h6>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="timetable.js"></script>
+</html>
