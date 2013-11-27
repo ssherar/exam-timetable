@@ -1,481 +1,342 @@
-AC31010,AC31010 - Financial Statement Analysis,42,B,Medrus Main,13/05/13,9:30,2 Hours,Monday,Management & Business
-AD19220,AD19220 - Datblygiad Plant*,13,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Education & Lifelong Learning
-BR21210,BR21210 - Coastal Environments*,82,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BRM0910,BRM0910 - Equine Behaviour And Welfare*,14,D,Refectory,13/05/13,9:30,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BS23610,BS23610 - Coastal Environments*,3,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-CS15020,CS15020 - Web Development Tools,203,A,Great Hall,13/05/13,9:30,2 Hours,Monday,Computer Science
-EC10320,EC10320 - Economic Principles And Skills 2*,69,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Management & Business
-EC10610,EC10610 - Economic Principles 2*,6,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Management & Business
-ED10220,ED10220 - Child Development*,90,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Education & Lifelong Learning
-EN33020a,"EN33020a - Shakespeare, Jonson And Company (REHEARSAL)",21,Dept,Dept Room,13/05/13,9:30,4 Hours,Monday,English and Creative Writing
-EN37820,EN37820a - Forms Of Children's Narrative Prose (REHEARSAL),40,Dept,Dept Room,13/05/13,9:30,All Day,Monday,English and Creative Writing
-EN38420,"EN38420a - Romantic Visions, Dangerous Worlds (REHEARSAL)",20,Dept,Dept Room,13/05/13,9:30,4 Hours,Monday,English and Creative Writing
-EN38920,EN38920a - Other Worlds: Utopia To Lilliput (REHEARSAL),21,Dept,Dept Room,13/05/13,9:30,4 Hours,Monday,English and Creative Writing
-ES30310,ES30310 - Environmental Law And Assessment,31,B,Medrus Main,13/05/13,9:30,2 Hours,Monday,Geography & Earth Sciences
-FR25020,FR25020 - Semantics And Lexicography*,3,D,Refectory,13/05/13,9:30,2 Hours,Monday,European Languages
-FR35020,FR35020 - Semantics And Lexicography*,9,D,Refectory,13/05/13,9:30,2 Hours,Monday,European Languages
-GC10720,GC10720 - Cyflwyniad I Wyddeleg Modern A'I Llenyddiaeth 2*,1,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Welsh
-GC20720,GC20720 - Cyflwyniad I Wyddeleg Modern A'I Llenyddiaeth Ii*,1,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Welsh
-GC32410,GC32410 - Gwyddeleg Modern Cynnar (Iaith A Lle^N) 3+4,1,B,Medrus Main,13/05/13,9:30,2 Hours,Monday,Welsh
-GW33820,GW33820 - Gwleidyddiaeth Ewropeaidd*,2,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,International Politics
-IP33820,IP33820 - European Politics*,66,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,International Politics
-IR10710,IR10710 - Introduction To Modern Irish Language 2*,1,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Welsh
-IR11610,IR11610 - Introduction To Old Irish Language And Literature 2*,5,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Welsh
-IRM0230,IRM0230 - Old And Middle Irish Language And Literature Ii*,3,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Welsh
-IRM0530,IRM0530 - Modern Irish Language And Literature I*,1,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,Welsh
-IT30310,IT30310 - The Language Of Current Affairs,2,C,Sports Cage,13/05/13,9:30,2 Hours,Monday,European Languages
-LA36820,LA36820 - Labour Law,74,B,Medrus Main,13/05/13,9:30,2 Hours,Monday,Law & Criminology
-MA21410,MA21410 - Linear Algebra*,104,D,Refectory,13/05/13,9:30,2 Hours,Monday,Mathematics
-MT21410,MT21410 - Algebra Llinol*,6,D,Refectory,13/05/13,9:30,2 Hours,Monday,Mathematics
-MX31410,MX31410 - Linear Algebra*,1,D,Refectory,13/05/13,9:30,2 Hours,Monday,Mathematics
-PH39420,"PH39420 - Planetary Atmospheres, Ionospheres & Magnetospheres",15,DD,DIS Room 122,13/05/13,9:30,2 Hours,Monday,Mathematics & Physics
-RD28220,RD28220 - Applied Equine Nutrition,1,DD,DIS Room 122,13/05/13,9:30,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-RSM1110,RSM1110 - Equine Behaviour And Welfare*,1,D,Refectory,13/05/13,9:30,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-SS19220,SS19220 - Research In Sport & Exercise Science 1,106,XX,X112 & XB23,13/05/13,9:30,1.5 Hours,Monday,Sport & Exercise Science
-SSM2020,SSM2020 - Exercise Physiology In Health,3,DD,DIS Room 122,13/05/13,9:30,2 Hours,Monday,Sport & Exercise Science
-TP21820a,TP21820a - Directing Text,27,Dept,Dept Room,13/05/13,9:30,All Day,Monday,"Theatre, Film & Television Studies"
-AH32520a,AH32520a - History Of Photography 1 (CAL) - Themes And Processes 1840-1940,35,X,X112 Physical Sciences,13/05/13,14:00,1 Hour,Monday,Art
-BG12920,BG12920 - Llystyfiant Ac Ecosystemau*,8,C,Sports Cage,13/05/13,14:00,1.5 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BR12920,BR12920 - Vegetation And Ecosystems*,345,C,Sports Cage,13/05/13,14:00,1.5 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BR20420,BR20420 - Animal Production Systems*,34,D,Refectory,13/05/13,14:00,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BR21720,BR21720 - Evolution And Molecular Systematics,165,A,Great Hall,13/05/13,14:00,3 Hours,Monday,"Biological, Environmental and Rural Sciences"
-EL10720,EL10720 - Brazilian Portuguese (Basic),2,C,Sports Cage,13/05/13,14:00,1.5 Hours,Monday,European Languages
-GE27110,GE27110 - Short Prose In German,8,BB,Medrus 1 Wasdell,13/05/13,14:00,2 Hours,Monday,European Languages
-GE37020,GE37020 - Autobiography And Life Writing In German,5,D,Refectory,13/05/13,14:00,2 Hours,Monday,European Languages
-GF15930,GF15930 - Cyfraith Troseddol*,6,B,Medrus Main,13/05/13,14:00,2 Hours,Monday,Law & Criminology
-HC11120,"HC11120 - Concwest, Uno A Hunaniaeth Yng Nghymru 1250-1800*",16,D,Refectory,13/05/13,14:00,2 Hours,Monday,History & Welsh History
-HY37230,"HY37230 - Science, Religion & Magic 1600 - 1900",1,A,Great Hall,13/05/13,14:00,3 Hours,Monday,History & Welsh History
-LA15930,LA15930 - Criminal Law*,104,B,Medrus Main,13/05/13,14:00,2 Hours,Monday,Law & Criminology
-LA35930,LA35930 - Criminal Law*,16,B,Medrus Main,13/05/13,14:00,2 Hours,Monday,Law & Criminology
-LL30420,LL30420 - Llenyddiaeth Lydaweg,4,BB,Medrus 1 Wasdell,13/05/13,14:00,2 Hours,Monday,Welsh
-MBM1610,MBM1610 - Financial Management,8,B,Medrus Main,13/05/13,14:00,2 Hours,Monday,Management & Business
-MP35610,MP35610 - Quantum  Information Theory 1,21,BB,Medrus 1 Wasdell,13/05/13,14:00,2 Hours,Monday,Mathematics & Physics
-PH02010,PH02010 - Introduction To Oscillations And Waves*,25,B,Medrus Main,13/05/13,14:00,2 Hours,Monday,Mathematics & Physics
-PH10210,PH10210 - Oscillations And Waves*,1,B,Medrus Main,13/05/13,14:00,2 Hours,Monday,Mathematics & Physics
-RD23420,RD23420 - Animal Production Systems*,12,D,Refectory,13/05/13,14:00,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-RS25020,RS25020 - Applied Animal Nutrition And Breeding,2,B,Medrus Main,13/05/13,14:00,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-SP27020,"SP27020 - Cuban Cinema Of The Revolution: Crisis, National Identity And The Critique Of Contemporary Society*",10,DD,DIS Room 122,13/05/13,14:00,2 Hours,Monday,European Languages
-SP37020,"SP37020 - Cuban Cinema Of The Revolution: Crisis, National Identity And The Critique Of Contemporary Society*",15,DD,DIS Room 122,13/05/13,14:00,2 Hours,Monday,European Languages
-WH11120,"WH11120 - Conquest, Union And Identity In Wales 1250-1800*",60,D,Refectory,13/05/13,14:00,2 Hours,Monday,History & Welsh History
-AH32520b,AH32520b - History Of Photography 1 - Themes And Processes 1840-1940,35,B,Medrus Main,14/05/13,9:30,2 Hours,Tuesday,Art
-BRM2510,BRM2510 - Molecular Genetics Of Production Animals,8,B,Medrus Main,14/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-CR12430,CR12430 - Elements Of Criminology,91,B,Medrus Main,14/05/13,9:30,2 Hours,Tuesday,Law & Criminology
-CR31820,CR31820 - The Treatment And Rehabilitation Of Offenders,1,B,Medrus Main,14/05/13,9:30,2 Hours,Tuesday,Law & Criminology
-CS15210,CS15210 - An Introduction To Communications And Telematics,213,XX,X112 & XB23,14/05/13,9:30,2 Hours,Tuesday,Computer Science
-CY33520,CY33520 - Datblygiad Y Chwedl Arthuraidd Ar Ol Y Goncwest Normanaidd,9,B,Medrus Main,14/05/13,9:30,2 Hours,Tuesday,Welsh
-GC32720,GC32720 - Gaeleg Yr Alban*,5,BB,Medrus 1 Wasdell,14/05/13,9:30,2 Hours,Tuesday,Welsh
-GW39220,GW39220 - Y Trydydd Byd Mewn Gwleidyddiaeth Ryngwladol*,6,D,Refectory,14/05/13,9:30,2 Hours,Tuesday,International Politics
-HA30230,HA30230 - Pwnc Arbennig*,3,A,Great Hall,14/05/13,9:30,3 Hours,Tuesday,History & Welsh History
-HY30230,HY30230 - Special Subject*,44,A,Great Hall,14/05/13,9:30,3 Hours,Tuesday,History & Welsh History
-IL35010,IL35010 - Digital Information : Discovery To Delivery,13,DD,DIS Room 122,14/05/13,9:30,1.5 Hours,Tuesday,Information Studies
-IP39220,IP39220 - The Third World In International Politics*,127,D,Refectory,14/05/13,9:30,2 Hours,Tuesday,International Politics
-IRM0130,IRM0130 - Old And Middle Irish Language And Literature I,1,C,Sports Cage,14/05/13,9:30,2 Hours,Tuesday,Welsh
-IRM1330,IRM1330 - Scottish Gaelic Language And Literature*,2,BB,Medrus 1 Wasdell,14/05/13,9:30,2 Hours,Tuesday,Welsh
-MM11020,MM11020 - Introduction To Management*,252,C,Sports Cage,14/05/13,9:30,2 Hours,Tuesday,Management & Business
-MR10520,MR10520 - Cyflwyniad I Rheolaeth*,7,C,Sports Cage,14/05/13,9:30,2 Hours,Tuesday,Management & Business
-RSM0420,RSM0420 - Equine Nutrition,1,A,Great Hall,14/05/13,9:30,3 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-SP20130R,SP20130 - Spanish Language (RESIT),1,A,Great Hall,14/05/13,9:30,3 Hours,Tuesday,European Languages
-SS25510,SS25510 - Sport And Exercise Medicine,91,C,Sports Cage,14/05/13,9:30,2 Hours,Tuesday,Sport & Exercise Science
-TP21820b,TP21820b - Directing Text,27,Dept,Dept Room,14/05/13,9:30,All Day,Tuesday,"Theatre, Film & Television Studies"
-AC32520,AC32520 - Taxation,75,A,Great Hall,14/05/13,14:00,3 Hours,Tuesday,Management & Business
-BR24310,BR24310 - Zoo Science,88,C,Sports Cage,14/05/13,14:00,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BRM1010,BRM1010 - Equine Nutrition,11,C,Sports Cage,14/05/13,14:00,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-ES30210,ES30210 - Conservation,77,C,Sports Cage,14/05/13,14:00,2 Hours,Tuesday,Geography & Earth Sciences
-FM21220,FM21220 - Contemporary Television Drama,17,DD,DIS Room 122,14/05/13,14:00,2 Hours,Tuesday,"Theatre, Film & Television Studies"
-FR36020,FR36020 - Decrasser Le Sacre: Religion And 20thc Literature,5,D,Refectory,14/05/13,14:00,2 Hours,Tuesday,European Languages
-GF14030,GF14030 - Cyfraith Ewrop*,2,BBB,Medrus Main + Wasdell,14/05/13,14:00,3 Hours,Tuesday,Law & Criminology
-GG10410,GG10410 - Global Ecology And Soil Systems,200,XX,X112 & XB23,14/05/13,14:00,1.5 Hours,Tuesday,Geography & Earth Sciences
-HA10620,HA10620 - Y Dirwasgiad Mawr: Hanes Cymharol America A Phrydain,7,DD,DIS Room 122,14/05/13,14:00,2 Hours,Tuesday,History & Welsh History
-HY14320,"HY14320 - Soldiers, Saints & Serfs: England, 1042-1154",90,C,Sports Cage,14/05/13,14:00,2 Hours,Tuesday,History & Welsh History
-IL30810,IL30810 - Focus On The Child:Reading And Libraries,2,D,Refectory,14/05/13,14:00,2 Hours,Tuesday,Information Studies
-IP30420,IP30420 - International Politics And The Nuclear Age,84,C,Sports Cage,14/05/13,14:00,2 Hours,Tuesday,International Politics
-LA14030,LA14030 - European Law*,86,BBB,Medrus Main + Wasdell,14/05/13,14:00,3 Hours,Tuesday,Law & Criminology
-LA17120,LA17120 - European Law 1*,2,BBB,Medrus Main + Wasdell,14/05/13,14:00,2 Hours,Tuesday,Law & Criminology
-LA34030,LA34030 - European Law*,8,BBB,Medrus Main + Wasdell,14/05/13,14:00,3 Hours,Tuesday,Law & Criminology
-LA37120,LA37120 - European Law 1*,96,BBB,Medrus Main + Wasdell,14/05/13,14:00,2 Hours,Tuesday,Law & Criminology
-LL10220,LL10220 - Llydaweg I Ddechreuwyr Ii,2,D,Refectory,14/05/13,14:00,2 Hours,Tuesday,Welsh
-MBM8010,MBM8010 - Strategic Management,6,C,Sports Cage,14/05/13,14:00,2 Hours,Tuesday,Management & Business
-PH23720,PH23720 - Quantum Mechanics 1,83,A,Great Hall,14/05/13,14:00,3 Hours,Tuesday,Mathematics & Physics
-PS20520,PS20520 - Individual Differences & Lifespan Development*,66,D,Refectory,14/05/13,14:00,2 Hours,Tuesday,Psychology
-PS34320,PS34320 - Individual Differences And Lifespan Development For Joint Honours*,24,D,Refectory,14/05/13,14:00,2 Hours,Tuesday,Psychology
-WE11320,WE11320 - Beginning Welsh Ii*,5,D,Refectory,14/05/13,14:00,2 Hours,Tuesday,Welsh
-WEM0220,WEM0220 - Welsh Language 2*,5,D,Refectory,14/05/13,14:00,2 Hours,Tuesday,Welsh
-BRM1920,BRM1920 - Research In Livestock Nutrition,7,A,Great Hall,15/05/13,9:30,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-EA20410,EA20410 - Hydrochemistry,55,B,Medrus Main,15/05/13,9:30,1.5 Hours,Wednesday,Geography & Earth Sciences
-ED30420,ED30420 - Special Educational Needs,59,A,Great Hall,15/05/13,9:30,3 Hours,Wednesday,Education & Lifelong Learning
-GC22120,GC22120 - Gwyddeleg Modern (Iaith A Llen) 1+2,2,C,Sports Cage,15/05/13,9:30,2 Hours,Wednesday,Welsh
-GW10620,GW10620 - Cyflwyniad I Wleidyddiaeth Ryngwladol Y Trydydd Byd*,5,C,Sports Cage,15/05/13,9:30,2 Hours,Wednesday,International Politics
-HA13820,HA13820 - Oes Y Fictoriaid,9,D,Refectory,15/05/13,9:30,2 Hours,Wednesday,History & Welsh History
-HY37930,HY37930 - Enterprise: The History Of Business Since 1850,32,A,Great Hall,15/05/13,9:30,3 Hours,Wednesday,History & Welsh History
-IP10620,IP10620 - Power And Inequality In The Third World*,219,C,Sports Cage,15/05/13,9:30,2 Hours,Wednesday,International Politics
-IRM0630,IRM0630 - Modern Irish Language And Literature Ii,3,D,Refectory,15/05/13,9:30,2 Hours,Wednesday,Welsh
-LL30220,LL30220 - Llydaweg (Cwrs Iaith Uwch),5,DD,DIS Room 122,15/05/13,9:30,2 Hours,Wednesday,Welsh
-MA13610,MA13610 - Mathematics For Economics And Finance 2,70,B,Medrus Main,15/05/13,9:30,2 Hours,Wednesday,Mathematics
-MM11520,MM11520 - Management And Marketing Skills And Analysis,126,C,Sports Cage,15/05/13,9:30,2 Hours,Wednesday,Management & Business
-MM33620,MM33620 - Operations And Innovation Management,117,D,Refectory,15/05/13,9:30,2 Hours,Wednesday,Management & Business
-MMM7620,"MMM7620 - Investments, Corporate Finance And Financial Markets",49,A,Great Hall,15/05/13,9:30,3 Hours,Wednesday,Management & Business
-RS22320,RS22320 - Equine Nutrition,3,D,Refectory,15/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RSM0220,RSM0220 - Equine Reproductive Physiology And Technology,1,A,Great Hall,15/05/13,9:30,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-BS33820,BS33820 - Molecular Pharmacology And Toxicology,53,A,Great Hall,15/05/13,14:00,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-CHM3510,CHM3510 - Quantitative Methods In Software Engineering*,10,D,Refectory,15/05/13,14:00,2 Hours,Wednesday,Computer Science
-CS38010,CS38010 - Professional Issues In Software Engineering,118,C,Sports Cage,15/05/13,14:00,2 Hours,Wednesday,Computer Science
-CY10510,CY10510 - Braslun O Hanes Ein Llen,15,BB,Medrus 1 Wasdell,15/05/13,14:00,2 Hours,Wednesday,Welsh
-CY12720,CY12720 - Cyflwyniad I Gymraeg Proffesiynol,8,BB,Medrus 1 Wasdell,15/05/13,14:00,2 Hours,Wednesday,Welsh
-EC30920,EC30920 - Introduction To Econometrics,39,A,Great Hall,15/05/13,14:00,3 Hours,Wednesday,Management & Business
-FR33320,FR33320 - L'Art Du R?cit (19e - 20e Si?cles),3,D,Refectory,15/05/13,14:00,2 Hours,Wednesday,European Languages
-GE27220,GE27220 - German-Speaking Refugees In Literature And Culture,11,BB,Medrus 1 Wasdell,15/05/13,14:00,2 Hours,Wednesday,European Languages
-GF32410,GF32410 - Cyfraith Ewropeaidd 2*,6,C,Sports Cage,15/05/13,14:00,1.5 Hours,Wednesday,Law & Criminology
-IP36420,IP36420 - The Second World War In Europe,114,D,Refectory,15/05/13,14:00,2 Hours,Wednesday,International Politics
-LA32410,LA32410 - European Law 2*,218,C,Sports Cage,15/05/13,14:00,1.5 Hours,Wednesday,Law & Criminology
-LA37810,LA37810 - Company Law For Business Students,2,B,Medrus Main,15/05/13,14:00,1.5 Hours,Wednesday,Law & Criminology
-MMM7820,MMM7820 - International Business,54,A,Great Hall,15/05/13,14:00,3 Hours,Wednesday,Management & Business
-OC30720,OC30720 - Awduron Rhyddiaith 17 Ganrif,4,C,Sports Cage,15/05/13,14:00,2 Hours,Wednesday,Welsh
-PS20220,PS20220 - Social Psychology,108,B,Medrus Main,15/05/13,14:00,1.5 Hours,Wednesday,Psychology
-RD22120,RD22120 - Advanced Practical Skills,11,B,Medrus Main,15/05/13,14:00,1.5 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RS36820,RS36820 - Environmental Policy Appraisal And Evaluation,4,BB,Medrus 1 Wasdell,15/05/13,14:00,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-SEM3510,SEM3510 - Quantitative Methods In Software Engineering*,11,D,Refectory,15/05/13,14:00,2 Hours,Wednesday,Computer Science
-CS27020,CS27020 - Modelling Persistent Data,123,C,Sports Cage,16/05/13,9:30,2 Hours,Thursday,Computer Science
-CY35720,CY35720 - Astudiaethau Trosi Ac Addasu,7,BB,Medrus 1 Wasdell,16/05/13,9:30,2 Hours,Thursday,Welsh
-EA30420,EA30420 - Volcanic Activity: Hazards And Environmental Change,85,C,Sports Cage,16/05/13,9:30,2 Hours,Thursday,Geography & Earth Sciences
-EC36520,EC36520 - Regional Economics,13,DD,DIS Room 122,16/05/13,9:30,2 Hours,Thursday,Management & Business
-FR26020,FR26020 - Humour In French Literature,11,BB,Medrus 1 Wasdell,16/05/13,9:30,2 Hours,Thursday,European Languages
-GC32610,GC32610 - Ieitheg Geltaidd Gymharol,1,BB,Medrus 1 Wasdell,16/05/13,9:30,2 Hours,Thursday,Welsh
-HY37030,HY37030 - The Domestic Politics Of Us Foreign Policy,49,A,Great Hall,16/05/13,9:30,3 Hours,Thursday,History & Welsh History
-IP34320,IP34320 - The Ethics Of War In Theory And Practice,96,C,Sports Cage,16/05/13,9:30,2 Hours,Thursday,International Politics
-IR11410,IR11410 - Introduction to Modern Irish III,3,D,Refectory,16/05/13,9:30,2 Hours,Thursday,Welsh
-LA30720,LA30720 - Business Law,102,B,Medrus Main,16/05/13,9:30,1.5 Hours,Thursday,Law & Criminology
-MA34310,MA34310 - Viscous Flow And Rheology 1,9,D,Refectory,16/05/13,9:30,2 Hours,Thursday,Mathematics
-MMM7520,MMM7520 - Contemporary Leadership,122,A,Great Hall,16/05/13,9:30,3 Hours,Thursday,Management & Business
-PH02510,PH02510 - Introduction To Electricity And Magnetism*,25,D,Refectory,16/05/13,9:30,2 Hours,Thursday,Mathematics & Physics
-PH10410,PH10410 - Electricity And Electrical Circuits*,1,D,Refectory,16/05/13,9:30,2 Hours,Thursday,Mathematics & Physics
-PS11320,PS11320 - Introduction To Psychology: Investigation And Communication,100,D,Refectory,16/05/13,9:30,2 Hours,Thursday,Psychology
-PS20320,PS20320 - Research Methods In Psychology,108,XX,X112 & XB23,16/05/13,9:30,2 Hours,Thursday,Psychology
-RD11610,RD11610 - The Development And Management Of British Habitats*,50,B,Medrus Main,16/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-RD20820,RD20820 - Visitor Management,13,BB,Medrus 1 Wasdell,16/05/13,9:30,2 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-RD21530,RD21530 - Wildlife Management,1,B,Medrus Main,16/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-RD22220,RD22220 - Agronomy And Crop Improvement,12,DD,DIS Room 122,16/05/13,9:30,2 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-RG11610,RG11610 - Datblygu A Rheoli Cynefinoedd Ym Mhrydain*,4,B,Medrus Main,16/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-WEM0430,WEM0430 - The Earliest Welsh Poetry,3,A,Great Hall,16/05/13,9:30,3 Hours,Thursday,Welsh
-ACM2820,ACM2820 - Comparative Corporate Governance,7,A,Great Hall,16/05/13,14:00,3 Hours,Thursday,Management & Business
-BR11520,BR11520 - Animal Diversity,340,C,Sports Cage,16/05/13,14:00,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-BR11810,BR11810 - Land Use,22,DD,DIS Room 122,16/05/13,14:00,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-BS33920,"BS33920 - Microbial Physiology, Biochemistry And Biotechnology",39,D,Refectory,16/05/13,14:00,2 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-CS12420,CS12420 - Software Development,200,BBB,Medrus Main + Wasdell,16/05/13,14:00,2 Hours,Thursday,Computer Science
-EN20620,EN20620 - Restoration & Eighteenth Century Literature,117,A,Great Hall,16/05/13,14:00,3 Hours,Thursday,English and Creative Writing
-GG28520,GG28520 - Cultural And Historical Geography,32,D,Refectory,16/05/13,14:00,2 Hours,Thursday,Geography & Earth Sciences
-MMM6820,MMM6820 - Managing Biotechnology,4,A,Great Hall,16/05/13,14:00,3 Hours,Thursday,Management & Business
-PS31820,PS31820 - Child Language: Development And Assessment,47,D,Refectory,16/05/13,14:00,2 Hours,Thursday,Psychology
-SP11220,SP11220 - Basic Spanish,12,C,Sports Cage,16/05/13,14:00,1.5 Hours,Thursday,European Languages
-SP30130,SP30130 - Spanish Language,42,A,Great Hall,16/05/13,14:00,3 Hours,Thursday,European Languages
-AD11320,AD11320 - Plant Ifainc Yn Dysgu*,12,D,Refectory,17/05/13,9:30,2 Hours,Friday,Education & Lifelong Learning
-BR22220,BR22220 - Immunology*,122,C,Sports Cage,17/05/13,9:30,2 Hours,Friday,"Biological, Environmental and Rural Sciences"
-BR23520,BR23520 - Rural And Environmental Policy*,13,A,Great Hall,17/05/13,9:30,3 Hours,Friday,"Biological, Environmental and Rural Sciences"
-BRM1110,BRM1110 - Equine Stud Management And Reproduction,11,A,Great Hall,17/05/13,9:30,3 Hours,Friday,"Biological, Environmental and Rural Sciences"
-BS23020,BS23020 - Immunology*,2,C,Sports Cage,17/05/13,9:30,3 Hours,Friday,"Biological, Environmental and Rural Sciences"
-ED11320,ED11320 - Young Children Learning*,84,D,Refectory,17/05/13,9:30,2 Hours,Friday,Education & Lifelong Learning
-FG11120,FG11120 - Ffiseg Glasurol 2*,7,A,Great Hall,17/05/13,9:30,3 Hours,Friday,Mathematics & Physics
-GC10910,GC10910 - Diwylliant Celtaidd Ii*,12,B,Medrus Main,17/05/13,9:30,2 Hours,Friday,Welsh
-GF15830,GF15830 - Cyfraith Cytundebau*,4,B,Medrus Main,17/05/13,9:30,2 Hours,Friday,Law & Criminology
-GQ30720,"GQ30720 - Globaleiddio, Gwrthiant A Newid Yng Ngwleidyddiaeth Y Byd*",4,D,Refectory,17/05/13,9:30,2 Hours,Friday,International Politics
-GW11120,GW11120 - Cymru Yn Ewrop,8,BB,Medrus 1 Wasdell,17/05/13,9:30,2 Hours,Friday,International Politics
-IP12120,IP12120 - Politics In Europe,223,C,Sports Cage,17/05/13,9:30,2 Hours,Friday,International Politics
-IQ30720,"IQ30720 - Globalization, Resistance And Change In World Politics*",35,D,Refectory,17/05/13,9:30,2 Hours,Friday,International Politics
-IR10910,IR10910 - Celtic Culture 2*,11,B,Medrus Main,17/05/13,9:30,2 Hours,Friday,Welsh
-LA15830,LA15830 - Law Of Contract*,115,B,Medrus Main,17/05/13,9:30,2 Hours,Friday,Law & Criminology
-LA15830-R,LA15830 - Law Of Contract (RESIT)*,2,B,Medrus Main,17/05/13,9:30,2 Hours,Friday,Law & Criminology
-LA35830,LA35830 - Law Of Contract*,5,B,Medrus Main,17/05/13,9:30,2 Hours,Friday,Law & Criminology
-MA36010,MA36010 - Comparative Statistical Inference,29,BB,Medrus 1 Wasdell,17/05/13,9:30,2 Hours,Friday,Mathematics
-PH11120,PH11120 - Classical Physics 2*,97,A,Great Hall,17/05/13,9:30,3 Hours,Friday,Mathematics & Physics
-PH33810,PH33810 - Condensed Matter 2,22,DD,DIS Room 122,17/05/13,9:30,2 Hours,Friday,Mathematics & Physics
-RS25210,RS25210 - Economics Of The Environment*,21,A,Great Hall,17/05/13,9:30,2 Hours,Friday,"Biological, Environmental and Rural Sciences"
-RS35810,RS35810 - Crop Protection,7,C,Sports Cage,17/05/13,9:30,2 Hours,Friday,"Biological, Environmental and Rural Sciences"
-ACM2020,ACM2020 - Advanced Finance,21,A,Great Hall,17/05/13,14:00,3 Hours,Friday,Management & Business
-BS34020,BS34020 - Population & Conservation Genetics,42,A,Great Hall,17/05/13,14:00,3 Hours,Friday,"Biological, Environmental and Rural Sciences"
-CS22310,CS22310 - User Centred Design And Human Computer Interaction,146,C,Sports Cage,17/05/13,14:00,1.5 Hours,Friday,Computer Science
-CY12610,CY12610 - Cymraeg Llyfr A Chymraeg Llafar Ii*,19,BB,Medrus 1 Wasdell,17/05/13,14:00,2 Hours,Friday,Welsh
-CY20310,CY20310 - Cymraeg Llyfr A Chymraeg Llafar Ii*,8,BB,Medrus 1 Wasdell,17/05/13,14:00,2 Hours,Friday,Welsh
-EC32520,EC32520 - The Business Cycle And Macroeconomic Policy,27,A,Great Hall,17/05/13,14:00,3 Hours,Friday,Management & Business
-ED20420,ED20420 - Cultural Diversity In Education,50,B,Medrus Main,17/05/13,14:00,2 Hours,Friday,Education & Lifelong Learning
-ED30520,ED30520 - Health And Education,33,A,Great Hall,17/05/13,14:00,3 Hours,Friday,Education & Lifelong Learning
-FR30130,FR30130 - French Language,45,A,Great Hall,17/05/13,14:00,3 Hours,Friday,European Languages
-GG14410,"GG14410 - Place, Culture And Society",152,C,Sports Cage,17/05/13,14:00,2 Hours,Friday,Geography & Earth Sciences
-GG36720,"GG36720 - Territory, Knowledge And Power",57,D,Refectory,17/05/13,14:00,2 Hours,Friday,Geography & Earth Sciences
-IP36220,IP36220 - Global Crime And Transnational Policing:  Emerging Practices,81,D,Refectory,17/05/13,14:00,2 Hours,Friday,International Politics
-PS31220,PS31220 - Health Psychology,53,B,Medrus Main,17/05/13,14:00,2 Hours,Friday,Psychology
-SS33720,SS33720 - Applied Sport Psychology,38,B,Medrus Main,17/05/13,14:00,2 Hours,Friday,Sport & Exercise Science
-BS34420,BS34420 - Current Topics In Behavioural Biology,15,A,Great Hall,18/05/13,9:30,3 Hours,Saturday,"Biological, Environmental and Rural Sciences"
-BS34820,BS34820 - Gene Expression & Developmental Genetics,31,A,Great Hall,18/05/13,9:30,3 Hours,Saturday,"Biological, Environmental and Rural Sciences"
-CS35810,CS35810 - Further Issues In System And Network Services Administration,52,D,Refectory,18/05/13,9:30,2 Hours,Saturday,Computer Science
-CY33620,CY33620 - Rhyddiaith Y Dadeni,13,D,Refectory,18/05/13,9:30,2 Hours,Saturday,Welsh
-LA31310,LA31310 - Company Law,53,B,Medrus Main,18/05/13,9:30,1.5 Hours,Saturday,Law & Criminology
-MA11010,MA11010 - Further Algebra And Calculus*,197,C,Sports Cage,18/05/13,9:30,2 Hours,Saturday,Mathematics
-MA21510,MA21510 - Complex Analysis,100,C,Sports Cage,18/05/13,9:30,2 Hours,Saturday,Mathematics
-MT11010,MT11010 - Algebra A Chalcwlws Pellach*,22,C,Sports Cage,18/05/13,9:30,2 Hours,Saturday,Mathematics
-BS34210,BS34210 - Environmental Animal Physiology,42,D,Refectory,18/05/13,14:00,2 Hours,Saturday,"Biological, Environmental and Rural Sciences"
-CS21120,"CS21120 - Program Design, Data Structures And Algorithms",108,B,Medrus Main,18/05/13,14:00,2 Hours,Saturday,Computer Science
-GE30130,GE30130 - German Language,16,A,Great Hall,18/05/13,14:00,3 Hours,Saturday,European Languages
-GF36030,GF36030 - Cyfraith Camwedd*,10,A,Great Hall,18/05/13,14:00,3 Hours,Saturday,Law & Criminology
-GW10320,GW10320 - Rhyfel Strategaeth A Chuddwybodaeth*,8,C,Sports Cage,18/05/13,14:00,2 Hours,Saturday,International Politics
-IP10320,"IP10320 - War, Strategy And Intelligence*",216,C,Sports Cage,18/05/13,14:00,2 Hours,Saturday,International Politics
-IT30130,IT30130 - Italian Language,6,A,Great Hall,18/05/13,14:00,3 Hours,Saturday,European Languages
-LA36030,LA36030 - Tort*,147,A,Great Hall,18/05/13,14:00,3 Hours,Saturday,Law & Criminology
-AC10410,AC10410 - Quantitative Methods For Accounting And Business,66,D,Refectory,20/05/13,9:30,2 Hours,Monday,Management & Business
-AC33120,AC33120 - Management Accounting 2,106,A,Great Hall,20/05/13,9:30,3 Hours,Monday,Management & Business
-BR12010,BR12010 - Metabolism,316,C,Sports Cage,20/05/13,9:30,1.5 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BS22620,BS22620 - Exploring Genetics,1,A,Great Hall,20/05/13,9:30,3 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BS22720,BS22720 - Quantitative Biology & Information Technology,2,D,Refectory,20/05/13,9:30,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-EC31920,EC31920 - Industrial Organisation And Policy,11,A,Great Hall,20/05/13,9:30,3 Hours,Monday,Management & Business
-GE19930,GE19930 - German Language Advanced,25,A,Great Hall,20/05/13,9:30,3 Hours,Monday,European Languages
-GG12710,GG12710 - Global Environmental Issues,219,XX,X112 & XB23,20/05/13,9:30,1.5 Hours,Monday,Geography & Earth Sciences
-GG33020,"GG33020 - Soil, Geochemistry And Environment",32,BB,Medrus 1 Wasdell,20/05/13,9:30,2 Hours,Monday,Geography & Earth Sciences
-GW30120,GW30120 - Damcaniaethau Gwleidyddiaeth Ryngwladol Heddiw*,2,B,Medrus Main,20/05/13,9:30,2 Hours,Monday,International Politics
-HY36230,HY36230 - The British Isles And The 'English' Revolution,41,A,Great Hall,20/05/13,9:30,3 Hours,Monday,History & Welsh History
-HY38730,HY38730 - Chivalry And The Hundred Years War,1,A,Great Hall,20/05/13,9:30,3 Hours,Monday,History & Welsh History
-ILM1820,ILM1820 - Palaeography And Diplomatic,10,A,Great Hall,20/05/13,9:30,3 Hours,Monday,Information Studies
-IP30120,IP30120 - International Political Theory Today*,82,B,Medrus Main,20/05/13,9:30,2 Hours,Monday,International Politics
-IR11510,IR11510 - Introduction To Old Irish Language And Literature I,2,D,Refectory,20/05/13,9:30,2 Hours,Monday,Welsh
-MA33110,MA33110 - Linear Programming*,67,B,Medrus Main,20/05/13,9:30,2 Hours,Monday,Mathematics
-MBM1110,MBM1110 - Operations Management,6,BB,Medrus 1 Wasdell,20/05/13,9:30,2 Hours,Monday,Management & Business
-MT33110,MT33110 - Rhaglennu Llinol*,6,B,Medrus Main,20/05/13,9:30,2 Hours,Monday,Mathematics
-PH31510,PH31510 - Thermal Physics 2,1,D,Refectory,20/05/13,9:30,2 Hours,Monday,Mathematics & Physics
-RD27020,RD27020 - Human Impact On The Environment,1,D,Refectory,20/05/13,9:30,2 Hours,Monday,"Biological, Environmental and Rural Sciences"
-RSM1210,RSM1210 - Equine Veterinary Science,1,A,Great Hall,20/05/13,9:30,3 Hours,Monday,"Biological, Environmental and Rural Sciences"
-SS32620,SS32620 - Sport & Exercise Nutrition,51,D,Refectory,20/05/13,9:30,2 Hours,Monday,Sport & Exercise Science
-TP20520,TP20520 - English Drama 1950-1980,6,D,Refectory,20/05/13,9:30,2 Hours,Monday,"Theatre, Film & Television Studies"
-BG10110,BG10110 - Datblygu A Rheoli Cynefinoedd Ym Mhrydain*,3,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,"Biological, Environmental and Rural Sciences"
-BR10810,BR10810 - The Development And Management Of British Habitats*,41,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,"Biological, Environmental and Rural Sciences"
-CS22510,"CS22510 - C++, C And Java Programming Paradigms",70,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,Computer Science
-CY10810,CY10810 - Cymraeg Ysgrifenedig 2,15,B,Medrus Main,20/05/13,14:00,2 Hours,Monday,Welsh
-EA22810,EA22810 - Geohazards,204,A,Great Hall,20/05/13,14:00,2 Hours,Monday,Geography & Earth Sciences
-EC10910,EC10910 - Statistics For Economists,53,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,Management & Business
-GF14230,GF14230 - Systemau A Sgiliau Cyfreithiol*,5,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,Law & Criminology
-GF14720,GF14720 - Systemau A Sgiliau Cyfreithiol Ar Gyfer Cynlluniau Ba*,3,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,Law & Criminology
-IRM1130,IRM1130 - Comparative Celtic Literature,5,DD,DIS Room 122,20/05/13,14:00,2 Hours,Monday,Welsh
-LA14230,LA14230 - Legal Systems And Skills*,86,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,Law & Criminology
-LA14720,LA14720 - Legal Systems And Skills For Ba Law*,16,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,Law & Criminology
-LA34230,LA34230 - Legal Systems And Skills*,11,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,Law & Criminology
-LA36720,"LA36720 - Medicine, Ethics And Law",144,B,Medrus Main,20/05/13,14:00,2 Hours,Monday,Law & Criminology
-MM19120,MM19120 - The Tourism System,22,BB,Medrus 1 Wasdell,20/05/13,14:00,1.5 Hours,Monday,Management & Business
-MM36320,MM36320 - Customer Relationship Management,50,D,Refectory,20/05/13,14:00,2 Hours,Monday,Management & Business
-RD12110,RD12110 - Land Use,59,C,Sports Cage,20/05/13,14:00,1.5 Hours,Monday,"Biological, Environmental and Rural Sciences"
-RD22310,RD22310 - Applied Animal Behaviour And Welfare,20,DD,DIS Room 122,20/05/13,14:00,1.5 Hours,Monday,"Biological, Environmental and Rural Sciences"
-SS21120,SS21120 - Biomechanical Analysis,85,D,Refectory,20/05/13,14:00,2 Hours,Monday,Sport & Exercise Science
-AH10410,AH10410 - Art In Europe: From Romanticism To Early Modernism 1800-1900,27,A,Great Hall,21/05/13,9:30,2 Hours,Tuesday,Art
-BR10720,BR10720 - Crop And Grassland Management,38,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BR11220,BR11220 - Equine Industry And Study Tour,10,D,Refectory,21/05/13,9:30,1.5 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BR20320,BR20320 - Agronomy And Crop Improvement,28,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BR23710,BR23710 - Vertebrate Anatomy,148,A,Great Hall,21/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BS20910,BS20910 - Invertebrate Zoology,2,B,Medrus Main,21/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BS24310,BS24310 - Cancer Biology,3,A,Great Hall,21/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-CHM5640,CHM5640 - Developing Advanced Internet Applications*,10,A,Great Hall,21/05/13,9:30,2 Hours,Tuesday,Computer Science
-CS36410,CS36410 - Intelligent Robotics,26,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Computer Science
-CY34920,CY34920 - Llen Gwerin Hen A Chyfoes: Patrymau Bywyd,39,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Welsh
-ED10810,ED10810 - Introduction To Working With Groups,63,Dept,Dept Room,21/05/13,9:30,All Day,Tuesday,Education & Lifelong Learning
-EL10820,"EL10820 - Language, Culture, And Identity In Europe",25,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,European Languages
-GC32520,GC32520 - Gwyddeleg Modern (Iaith A Llen) 3+4,1,A,Great Hall,21/05/13,9:30,2 Hours,Tuesday,Welsh
-GG10810,"GG10810 - Climate Change: Impacts, Perceptions, Adaptations",220,XX,X112 & XB23,21/05/13,9:30,1.5 Hours,Tuesday,Geography & Earth Sciences
-GG25030,GG25030 - Research Skills In Human Geography,22,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Geography & Earth Sciences
-GG33720,"GG33720 - People, Climate And Environment: A Palaeoenvironmental Perspective",21,DD,DIS Room 122,21/05/13,9:30,2 Hours,Tuesday,Geography & Earth Sciences
-GG36820,GG36820 - Geographies Of The Global Countryside,29,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Geography & Earth Sciences
-IRM1030,IRM1030 - Comparative Celtic Philology,3,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Welsh
-MA30110,MA30110 - Group Theory,40,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Mathematics
-MBM8810,MBM8810 - Principles Of Project Management,6,BB,Medrus 1 Wasdell,21/05/13,9:30,1.5 Hours,Tuesday,Management & Business
-MM33520,MM33520 - Human Resource Management,157,B,Medrus Main,21/05/13,9:30,2 Hours,Tuesday,Management & Business
-PH24520,PH24520 - Instrumentation Systems,26,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Mathematics & Physics
-PH39710,PH39710 - Space Plasmas,29,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,Mathematics & Physics
-RD11420,"RD11420 - Business, Economics And Land Use",22,BB,Medrus 1 Wasdell,21/05/13,9:30,1.5 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-RS32210,RS32210 - Global Biodiversity Conservation,25,C,Sports Cage,21/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-SEM5640,SEM5640 - Developing Advanced Internet-Based Applications*,11,A,Great Hall,21/05/13,9:30,2 Hours,Tuesday,Computer Science
-TP30220a,TP30220a - Key Theatre Practices,157,Dept,Dept Room,21/05/13,9:30,All Day,Tuesday,"Theatre, Film & Television Studies"
-AC31720,AC31720 - The Role And Practice Of Audit,33,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,Management & Business
-ACM2520,ACM2520 - Modern Banking: Theory And Practice,18,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,Management & Business
-BR00710,BR00710 - Introduction To Genetics,30,D,Refectory,21/05/13,14:00,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BR22020,BR22020 - Freshwater Biology*,63,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BRM0510,BRM0510 - Advances In Equine And Livestock Science,21,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BS20620,BS20620 - Freshwater Biology*,2,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BS32020,BS32020 - Plant Interactions With Pests And Pathogens,26,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-FM10220,FM10220 - Studying Television,101,D,Refectory,21/05/13,14:00,2 Hours,Tuesday,"Theatre, Film & Television Studies"
-ILM1720,ILM1720 - Study Of Records: Creators And Users,10,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,Information Studies
-IP35720,IP35720 - De Gaulle'S France (1919 - 1970),40,C,Sports Cage,21/05/13,14:00,2 Hours,Tuesday,International Politics
-LA16220,LA16220 - Constitutional Law*,1,BB,Medrus 1 Wasdell,21/05/13,14:00,1.5 Hours,Tuesday,Law & Criminology
-LA36220,LA36220 - Constitutional Law*,24,BB,Medrus 1 Wasdell,21/05/13,14:00,1.5 Hours,Tuesday,Law & Criminology
-MM11420,MM11420 - Managing Finance,143,B,Medrus Main,21/05/13,14:00,2 Hours,Tuesday,Management & Business
-MMM2420,MMM2420 - Political Risk And Corporate Strategy*,5,A,Great Hall,21/05/13,14:00,2 Hours,Tuesday,Management & Business
-MMM6920,MMM6920 - Risk And Regulations Management*,4,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,Management & Business
-PS11220,PS11220 - Perspectives On Psychobiology And Cognition,103,C,Sports Cage,21/05/13,14:00,2 Hours,Tuesday,Psychology
-RS30910,RS30910 - Nutrition Of Companion Animals,19,B,Medrus Main,21/05/13,14:00,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-SS11220,SS11220 - Foundations In Biomechanics,107,C,Sports Cage,21/05/13,14:00,2 Hours,Tuesday,Sport & Exercise Science
-WEM0330,WEM0330 - The Four Branches Of The Mabinogi,4,A,Great Hall,21/05/13,14:00,3 Hours,Tuesday,Welsh
-BR12320,BR12320 - People And The Countryside,21,B,Medrus Main,22/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-BS24410,BS24410 - Health And The Food Chain,16,DD,DIS Room 122,22/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-CR10320,CR10320 - Crime Control And Prevention,83,B,Medrus Main,22/05/13,9:30,2 Hours,Wednesday,Law & Criminology
-CR30820,CR30820 - Victims*,54,B,Medrus Main,22/05/13,9:30,2 Hours,Wednesday,Law & Criminology
-CR30820-R,CR30820 - Victims (RESIT)*,1,B,Medrus Main,22/05/13,9:30,2 Hours,Wednesday,Law & Criminology
-CY10310,CY10310 - Cymraeg Ddoe A Heddiw 1 (Iaith Gyntaf),21,BB,Medrus 1 Wasdell,22/05/13,9:30,2 Hours,Wednesday,Welsh
-CY12220,CY12220 - Cymru: Iaith A Diwylliant (Ail Iaith),8,DD,DIS Room 122,22/05/13,9:30,2 Hours,Wednesday,Welsh
-EA34120,"EA34120 - Welsh Mineral Resources: Origins, Exploitation And Planning",14,D,Refectory,22/05/13,9:30,2 Hours,Wednesday,Geography & Earth Sciences
-ECM1020,ECM1020 - Empirical Methods In Finance,22,D,Refectory,22/05/13,9:30,2 Hours,Wednesday,Management & Business
-EN10220,EN10220 - Ancestral Voices,186,A,Great Hall,22/05/13,9:30,2 Hours,Wednesday,English and Creative Writing
-EN33420a,"EN33420a - Demons, Degenerates And New Women: Fin De Siecle Fictions (REHEARSAL)",39,Dept,Dept Room,22/05/13,9:30,All Day,Wednesday,English and Creative Writing
-IL32620,IL32620 - Marketing Of Services,17,BB,Medrus 1 Wasdell,22/05/13,9:30,2 Hours,Wednesday,Information Studies
-IP38520,IP38520 - A History Of British Intelligence,50,D,Refectory,22/05/13,9:30,2 Hours,Wednesday,International Politics
-MM11220,MM11220 - Business Environment*,262,C,Sports Cage,22/05/13,9:30,2 Hours,Wednesday,Management & Business
-MR10620,MR10620 - Cyflwyniad I?R Amgylchedd Busnes*,8,C,Sports Cage,22/05/13,9:30,2 Hours,Wednesday,Management & Business
-PH29610,PH29610 - Planetary Atmospheres,49,C,Sports Cage,22/05/13,9:30,2 Hours,Wednesday,Mathematics & Physics
-RD22010,RD22010 - Advanced Horsemastership,19,D,Refectory,22/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RD23120,RD23120 - Wildlife Management,14,D,Refectory,22/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RD25410,RD25410 - Animal Nutrition,12,D,Refectory,22/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-TP30220b,TP30220b - Key Theatre Practices,157,Dept,Dept Room,22/05/13,9:30,All Day,Wednesday,"Theatre, Film & Television Studies"
-AC30420,AC30420 - Investments,126,D,Refectory,22/05/13,14:00,3 Hours,Wednesday,Management & Business
-BR00810,BR00810 - Microbiology,30,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-BR20810,BR20810 - Aquatic And Terrestrial Microbial Ecology,34,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-BRM0810,BRM0810 - Equine Anatomy And Evolution,15,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-BS30820,"BS30820 - Fish Biology, Fisheries  &  Aquaculture",28,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-CS25710,"CS25710 - Mobile, Embedded And Wearable Technology",41,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,Computer Science
-CY35320,"CY35320 - Rhyddiaith Tri Chwarter Canrif, 1900-79",43,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,Welsh
-EA22520,EA22520 - Earth Resources,38,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,Geography & Earth Sciences
-EC31120,EC31120 - Advanced Topics In Macroeconomics,21,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,Management & Business
-HA35130,HA35130 - Cymdeithas Ewrop A'R Meddwl Canoloesol 1200-1500,9,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,History & Welsh History
-HY39430,"HY39430 - The Soviet Union And The World, 1917-1991",47,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,History & Welsh History
-IQ30420,IQ30420 - International Statebuilding: Reconstructing War-Torn States,27,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,International Politics
-IT10740,IT10740 - Italian Language (Beginners),6,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,European Languages
-IT21530,IT21530 - Italian Language-Beginners (Single Hons European Languages: Minor Language)*,7,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,European Languages
-LA32510,LA32510 - Intellectual Property Law,70,B,Medrus Main,22/05/13,14:00,1.5 Hours,Wednesday,Law & Criminology
-MA34210,MA34210 - Asymptotic Methods In Mechanics,28,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,Mathematics
-MM39620,MM39620 - Tourism Development And Planning,14,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,Management & Business
-RS30210,RS30210 - Equine Genetics And Breeding,38,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RS32310,RS32310 - Strategic Planning For Tourism And Recreation,7,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RS36020,RS36020 - Animal Production Science,21,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RSM0510,RSM0510 - Equine Anatomy And Evolution,2,A,Great Hall,22/05/13,14:00,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-SE33010,SE33010 - Formal Methods In Software Engineering,30,C,Sports Cage,22/05/13,14:00,2 Hours,Wednesday,Computer Science
-AC30520,AC30520 - Corporate Finance,56,B,Medrus Main,23/05/13,9:30,2 Hours,Thursday,Management & Business
-BG12110,BG12110 - Amrywiaeth Microbau*,1,C,Sports Cage,23/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-BR00210,BR00210 - Mathematics & Computing For Biologists,31,B,Medrus Main,23/05/13,9:30,2 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-BR10420,"BR10420 - Business, Economics And Land Use",39,C,Sports Cage,23/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-BR12110,BR12110 - Microbial Diversity*,316,C,Sports Cage,23/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-BRM1510,BRM1510 - Grassland Science,10,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-CY34420,CY34420 - Hen Gymraeg A Chymraeg Canol,6,D,Refectory,23/05/13,9:30,2 Hours,Thursday,Welsh
-EC31320,EC31320 - Economics Of Labour And Industrial Relations,24,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,Management & Business
-ED33020,"ED33020 - Communicating Science:  The Scientists, The Media And The Public",27,Dept,Dept Room,23/05/13,9:30,All Day,Thursday,Education & Lifelong Learning
-EN37820b,EN37820b - Forms Of Children's Narrative Prose,40,Dept,Dept Room,23/05/13,9:30,All Day,Thursday,English and Creative Writing
-ES30110,ES30110 - Chemical Aspects Of Pollution,26,B,Medrus Main,23/05/13,9:30,2 Hours,Thursday,Geography & Earth Sciences
-FR19930,FR19930 - French Language Advanced,43,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,European Languages
-GE10740,GE10740 - German Language (Beginners)*,12,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,European Languages
-GE21530,GE21530 - German Language-Beginners (Single Hons European Languages: Minor Language)*,2,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,European Languages
-HC33330,"HC33330 - Trosedd, Terfysg A Moesoldeb 1750-1850",4,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,History & Welsh History
-LA39010,LA39010 - Introduction To Civil Law,19,BB,Medrus 1 Wasdell,23/05/13,9:30,1.5 Hours,Thursday,Law & Criminology
-MMM7720,MMM7720 - Marketing For Managers,23,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,Management & Business
-MMM7920,MMM7920 - Entrepreneurship,13,A,Great Hall,23/05/13,9:30,3 Hours,Thursday,Management & Business
-PH34710,PH34710 - Cosmology,15,DD,DIS Room 122,23/05/13,9:30,2 Hours,Thursday,Mathematics & Physics
-RD28410,RD28410 - Equitation,14,Dept,Dept Room,23/05/13,9:30,3 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-TP10220,TP10220 - Studying Theatre 2,127,D,Refectory,23/05/13,9:30,2 Hours,Thursday,"Theatre, Film & Television Studies"
-TP21420,TP21420 - Applied Theatre,24,Dept,Dept Room,23/05/13,9:30,All Day,Thursday,"Theatre, Film & Television Studies"
-WE11420,WE11420 - Introduction To Welsh Literature,6,B,Medrus Main,23/05/13,9:30,2 Hours,Thursday,Welsh
-BR20510,BR20510 - Applied Animal Behaviour And Welfare,49,A,Great Hall,23/05/13,14:00,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-CR31120,CR31120 - Criminology Of Human Rights Violations,43,B,Medrus Main,23/05/13,14:00,1.5 Hours,Thursday,Law & Criminology
-CS24210,CS24210 - Interactive Computer Graphics And Games,26,B,Medrus Main,23/05/13,14:00,1.5 Hours,Thursday,Computer Science
-CY10410,CY10410 - Seminarau Iaith A Llen (Iaith Gyntaf),21,DD,DIS Room 122,23/05/13,14:00,1.5 Hours,Thursday,Welsh
-FR10740,FR10740 - French Language (Beginners)*,25,BB,Medrus 1 Wasdell,23/05/13,14:00,3 Hours,Thursday,European Languages
-FR11220,FR11220 - Basic French*,1,BB,Medrus 1 Wasdell,23/05/13,14:00,1.5 Hours,Thursday,European Languages
-HY11920,"HY11920 - Stuart England: War, Political Crisis And Social Change 1629-1714",112,D,Refectory,23/05/13,14:00,2 Hours,Thursday,History & Welsh History
-HY35230,HY35230 - Age Of The Crusades:West & East 1070-1291,47,A,Great Hall,23/05/13,14:00,3 Hours,Thursday,History & Welsh History
-LA31810,LA31810 - Commerce & Risk,44,B,Medrus Main,23/05/13,14:00,1.5 Hours,Thursday,Law & Criminology
-MM39420,MM39420 - Tourism Marketing,23,D,Refectory,23/05/13,14:00,2 Hours,Thursday,Management & Business
-RD11320,RD11320 - Breeding And Stud Management,25,B,Medrus Main,23/05/13,14:00,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-RD12220,RD12220 - Soil And Plant Science,21,B,Medrus Main,23/05/13,14:00,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-RS25120,RS25120 - Crop And Grassland Management,1,A,Great Hall,23/05/13,14:00,3 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-WH35230,WH35230 - The Growth Of An Urban Society: Wales 1750-2000,39,A,Great Hall,23/05/13,14:00,3 Hours,Thursday,History & Welsh History
-AC32920,AC32920 - Financial Accounting 2,121,A,Great Hall,24/05/13,9:30,3 Hours,Friday,Management & Business
-BR21820,BR21820 - Chromosome Dynamics,36,BB,Medrus 1 Wasdell,24/05/13,9:30,2 Hours,Friday,"Biological, Environmental and Rural Sciences"
-CY10210,CY10210 - Beirdd A Llenorion O 1900 Hyd Heddiw,21,D,Refectory,24/05/13,9:30,2 Hours,Friday,Welsh
-GC32320,GC32320 - Hen Wyddeleg A Gwyddeleg Canol (Iaith A Lle^N),1,BB,Medrus 1 Wasdell,24/05/13,9:30,2 Hours,Friday,Welsh
-HY10220,HY10220 - The European Reformation,86,D,Refectory,24/05/13,9:30,2 Hours,Friday,History & Welsh History
-IP37520,IP37520 - Us And Uk Special Relations,86,C,Sports Cage,24/05/13,9:30,2 Hours,Friday,International Politics
-MA11210,MA11210 - Differential Equations*,97,B,Medrus Main,24/05/13,9:30,2 Hours,Friday,Mathematics
-MA37010,MA37010 - Lebesgue Integration*,31,B,Medrus Main,24/05/13,9:30,2 Hours,Friday,Mathematics
-MAM7020,MAM7020 - Lebesgue Integration*,10,B,Medrus Main,24/05/13,9:30,2 Hours,Friday,Mathematics
-MM34220,MM34220 - Business And Society,63,C,Sports Cage,24/05/13,9:30,2 Hours,Friday,Management & Business
-MP25710,MP25710 - Advanced Dynamics,12,B,Medrus Main,24/05/13,9:30,2 Hours,Friday,Mathematics & Physics
-MT11210,MT11210 - Hafaliadau Differol*,12,B,Medrus Main,24/05/13,9:30,2 Hours,Friday,Mathematics
-SP10740,SP10740 - Spanish Language (Beginners),31,A,Great Hall,24/05/13,9:30,3 Hours,Friday,European Languages
-SP19930,SP19930 - Spanish Language Advanced,21,A,Great Hall,24/05/13,9:30,3 Hours,Friday,European Languages
-SP21530,SP21530 - Spanish Language-Beginners (Single Hons European Languages: Minor Language)*,1,A,Great Hall,24/05/13,9:30,3 Hours,Friday,European Languages
-EN20820,EN20820 - Twentieth Century British Literature,149,A,Great Hall,24/05/13,14:00,3 Hours,Friday,English and Creative Writing
-GG20230,GG20230 - Research Skills In Physical Geography,62,B,Medrus Main,24/05/13,14:00,1.5 Hours,Friday,Geography & Earth Sciences
-IQ30320,IQ30320 - The Brics In World Politics,53,D,Refectory,24/05/13,14:00,2 Hours,Friday,International Politics
-LA33710,LA33710 - Law And Society,43,B,Medrus Main,24/05/13,14:00,1.5 Hours,Friday,Law & Criminology
-RD20510,RD20510 - Equine Performance Science,21,D,Refectory,24/05/13,14:00,2 Hours,Friday,"Biological, Environmental and Rural Sciences"
-BG11410,BG11410 - Cyflwyniad I Systemau Cynhyrchu Anifeiliaid*,6,B,Medrus Main,25/05/13,9:30,1.5 Hours,Saturday,"Biological, Environmental and Rural Sciences"
-BR11410,BR11410 - Introduction To Animal Production Systems*,40,B,Medrus Main,25/05/13,9:30,1.5 Hours,Saturday,"Biological, Environmental and Rural Sciences"
-CY20120,CY20120 - Gloywi Iaith,40,D,Refectory,25/05/13,9:30,2 Hours,Saturday,Welsh
-LA31210,LA31210 - Corporate Governance,40,B,Medrus Main,25/05/13,9:30,1.5 Hours,Saturday,Law & Criminology
-MA11110,MA11110 - Mathematical Analysis*,103,C,Sports Cage,25/05/13,9:30,2 Hours,Saturday,Mathematics
-MA25610,MA25610 - Hydrodynamics 1*,82,D,Refectory,25/05/13,9:30,2 Hours,Saturday,Mathematics
-MA25610-R,MA25610 - Hydrodynamics 1 (RESIT)*,1,D,Refectory,25/05/13,9:30,2 Hours,Saturday,Mathematics
-MT11110,MT11110 - Dadansoddi Mathemategol*,12,C,Sports Cage,25/05/13,9:30,2 Hours,Saturday,Mathematics
-RD10810,RD10810 - Introduction To Animal Production Systems*,21,B,Medrus Main,25/05/13,9:30,1.5 Hours,Saturday,"Biological, Environmental and Rural Sciences"
-MMM7420,MMM7420 - Implementation Delivery And Development,121,A,Great Hall,25/05/13,14:00,3 Hours,Saturday,Management & Business
-BR00510,BR00510 - Biological Co-Ordination And Function,30,B,Medrus Main,28/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BR11010,BR11010 - Equine Exercise Physiology,24,C,Sports Cage,28/05/13,9:30,1.5 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BR24020,BR24020 - Visitor Management,27,D,Refectory,28/05/13,9:30,2 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-DA12810,DA12810 - Byw Gyda Risg,21,A,Great Hall,28/05/13,9:30,2 Hours,Tuesday,Geography & Earth Sciences
-EA11610,EA11610 - Rocks And Minerals,85,C,Sports Cage,28/05/13,9:30,1.5 Hours,Tuesday,Geography & Earth Sciences
-EN33020b,"EN33020b - Shakespeare, Jonson And Company",21,Dept,Dept Room,28/05/13,9:30,4 Hours,Tuesday,English and Creative Writing
-EN38420b,"EN38420b - Romantic Visions, Dangerous Worlds",20,Dept,Dept Room,28/05/13,9:30,4 Hours,Tuesday,English and Creative Writing
-EN38920b,EN38920b - Other Worlds: Utopia To Lilliput,21,Dept,Dept Room,28/05/13,9:30,4 Hours,Tuesday,English and Creative Writing
-IQ30220,IQ30220 - Statebuilding And State-Formation,15,B,Medrus Main,28/05/13,9:30,2 Hours,Tuesday,International Politics
-IQ30520,IQ30520 - International Politics And The Cyber Dimension,41,C,Sports Cage,28/05/13,9:30,1.5 Hours,Tuesday,International Politics
-MA11310,MA11310 - Statistics*,94,B,Medrus Main,28/05/13,9:30,2 Hours,Tuesday,Mathematics
-MA25110,MA25110 - Introduction To Numerical Analysis*,90,D,Refectory,28/05/13,9:30,2 Hours,Tuesday,Mathematics
-MA37810,MA37810 - Stochastic Models In Finance,44,A,Great Hall,28/05/13,9:30,2 Hours,Tuesday,Mathematics
-MT11310,MT11310 - Ystadegaeth*,12,B,Medrus Main,28/05/13,9:30,2 Hours,Tuesday,Mathematics
-MT25110,MT25110 - Cyflwyniad I Ddadansoddiad Rhifiadol,6,D,Refectory,28/05/13,9:30,2 Hours,Tuesday,Mathematics
-RD11210,RD11210 - Animal Science,45,C,Sports Cage,28/05/13,9:30,1.5 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-BS34620,BS34620 - Biodiversity Of Birds,53,A,Great Hall,28/05/13,14:00,3 Hours,Tuesday,"Biological, Environmental and Rural Sciences"
-CL10320,CL10320 - History Of Greek And Roman Ideas,68,A,Great Hall,28/05/13,14:00,3 Hours,Tuesday,English and Creative Writing
-EC31720,EC31720 - Development And Transition Economics,17,A,Great Hall,28/05/13,14:00,3 Hours,Tuesday,Management & Business
-FR12910,FR12910 - Images Of France Through Childhood Memory,31,BB,Medrus 1 Wasdell,28/05/13,14:00,2 Hours,Tuesday,European Languages
-LA33310,LA33310 - A History Of Crime And Punishment,87,B,Medrus Main,28/05/13,14:00,1.5 Hours,Tuesday,Law & Criminology
-PH06520,PH06520 - Introduction To Mathematical Methods For Physicists Ii,25,A,Great Hall,28/05/13,14:00,3 Hours,Tuesday,Mathematics & Physics
-SS13410,SS13410 - Foundations In Exercise Psychology,108,D,Refectory,28/05/13,14:00,2 Hours,Tuesday,Sport & Exercise Science
-AC30320,AC30320 - Management Accounting Iii: Recent Developments,42,C,Sports Cage,29/05/13,9:30,2 Hours,Wednesday,Management & Business
-BG23420,BG23420 - Dulliau Ymchwil*,10,EL6/B23/112/C66,EL6/B23/112/C66,29/05/13,9:30,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-BR23420,BR23420 - Research Methods*,356,EL6/B23/112/C66,EL6/B23/112/C66,29/05/13,9:30,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-BS33310,BS33310 - Techniques And Ecology Of Land Rehabilitation,13,D,Refectory,29/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-EA11810,EA11810 - The Earth In Space And Time,56,C,Sports Cage,29/05/13,9:30,2 Hours,Wednesday,Geography & Earth Sciences
-EC30320,EC30320 - Macroeconomic Behaviour And Systems,62,C,Sports Cage,29/05/13,9:30,2 Hours,Wednesday,Management & Business
-EL10920,EL10920 - Images Of Europe: The European Imagination,23,DD,DIS Room 122,29/05/13,9:30,2 Hours,Wednesday,European Languages
-EN33420b,"EN33420b - Demons, Degenerates And New Women: Fin De Siecle Fictions",39,Dept,Dept Room,29/05/13,9:30,All Day,Wednesday,English and Creative Writing
-EU10210,EU10210 - European Economy: Development And Integration,124,A,Great Hall,29/05/13,9:30,1.5 Hours,Wednesday,Management & Business
-IQ30620,IQ30620 - Cyber Warfare:  The Changing Nature Of Security In The Digital Age,40,C,Sports Cage,29/05/13,9:30,2 Hours,Wednesday,International Politics
-MA37510,MA37510 - Linear Modelling Techniques,37,C,Sports Cage,29/05/13,9:30,2 Hours,Wednesday,Mathematics
-MM30320,MM30320 - Strategic Marketing,65,C,Sports Cage,29/05/13,9:30,2 Hours,Wednesday,Management & Business
-PH14310,PH14310 - Modern Physics,119,D,Refectory,29/05/13,9:30,2 Hours,Wednesday,Mathematics & Physics
-RD23520,RD23520 - Research Methods*,24,EL6/B23/112/C66,EL6/B23/112/C66,29/05/13,9:30,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RG23520,RG23520 - Dulliau Ymchwil*,2,EL6/B23/112/C66,EL6/B23/112/C66,29/05/13,9:30,3 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-RS30610,RS30610 - Veterinary Science,47,C,Sports Cage,29/05/13,9:30,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-TP33120a,"TP33120a - Theatre, Gender And Sexuality",61,Dept,Dept Room,29/05/13,9:30,All Day,Wednesday,"Theatre, Film & Television Studies"
-AC11020,AC11020 - Financial Accounting 1,76,A,Great Hall,29/05/13,14:00,3 Hours,Wednesday,Management & Business
-BR01010,BR01010 - Environmental Biology,30,A,Great Hall,29/05/13,14:00,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-EN10520,EN10520 - Contemporary Writing,116,D,Refectory,29/05/13,14:00,2 Hours,Wednesday,English and Creative Writing
-GF32920,GF32920 - Ecwiti A Chyfraith Ymddiriedau*,8,C,Sports Cage,29/05/13,14:00,1.5 Hours,Wednesday,Law & Criminology
-LA32920,LA32920 - Equity And The Law Of Trusts*,207,C,Sports Cage,29/05/13,14:00,1.5 Hours,Wednesday,Law & Criminology
-PH32710,PH32710 - Probing Atoms And Molecules,62,A,Great Hall,29/05/13,14:00,2 Hours,Wednesday,Mathematics & Physics
-RD11520,RD11520 - Crop And Grassland Management,21,D,Refectory,29/05/13,14:00,2 Hours,Wednesday,"Biological, Environmental and Rural Sciences"
-AC10510,AC10510 - Introduction To Management Accounting,76,A,Great Hall,30/05/13,9:30,2 Hours,Thursday,Management & Business
-BR24120,BR24120 - Wildlife Management,48,C,Sports Cage,30/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-GF36130,GF36130 - Cyfraith Tir*,6,B,Medrus Main,30/05/13,9:30,2 Hours,Thursday,Law & Criminology
-GG29220,"GG29220 - Nature, Environment And Sustainability",116,A,Great Hall,30/05/13,9:30,2 Hours,Thursday,Geography & Earth Sciences
-LA36130,LA36130 - Land Law*,153,B,Medrus Main,30/05/13,9:30,2 Hours,Thursday,Law & Criminology
-LA36130-R,LA36130 - Land Law (RESIT)*,1,B,Medrus Main,30/05/13,9:30,2 Hours,Thursday,Law & Criminology
-RD10720,RD10720 - People And The Countryside,35,C,Sports Cage,30/05/13,9:30,1.5 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-TP33120b,"TP33120b - Theatre, Gender And Sexuality",61,Dept,Dept Room,30/05/13,9:30,All Day,Thursday,"Theatre, Film & Television Studies"
-AC30920,AC30920 - Financial Accounting 3: Group Financial Reporting,43,C,Sports Cage,30/05/13,14:00,2 Hours,Thursday,Management & Business
-HY13220,HY13220 - Britain And The First World War,116,A,Great Hall,30/05/13,14:00,2 Hours,Thursday,History & Welsh History
-MM32220,MM32220 - Small Business Management,35,C,Sports Cage,30/05/13,14:00,2 Hours,Thursday,Management & Business
-RS33720,RS33720 - Equine Stud Management And Reproductive Technology,35,C,Sports Cage,30/05/13,14:00,2 Hours,Thursday,"Biological, Environmental and Rural Sciences"
-SP20310,SP20310 - Language Of Business And Current Affairs 1,49,A,Great Hall,30/05/13,14:00,2 Hours,Thursday,European Languages
-MA27210,MA27210 - Regression And Anova,76,C,Sports Cage,31/05/13,9:30,2 Hours,Friday,Mathematics
-MA34810,MA34810 - Mathematical Models Of Biological Systems,54,C,Sports Cage,31/05/13,9:30,2 Hours,Friday,Mathematics
-PH28310,PH28310 - The Solar Interior,45,C,Sports Cage,31/05/13,9:30,2 Hours,Friday,Mathematics & Physics
-SS12010,SS12010 - Foundations In Cardio-Respiratory Physiology,108,C,Sports Cage,31/05/13,9:30,2 Hours,Friday,Sport & Exercise Science
+AC31010,AC31010 Financial Statement Analysis,34,B,Penbryn - MedRus Mawr,Monday,06/01/14,9:30,2 Hours,Management &Business
+AD30120*,AD30120(a) Gwerthuso Ac Adlewyrchu Ar Sgiliau Dysgu Yn Gritigol*,7,,Departmental Room,Monday,06/01/14,9:30,6 Hours,Education & LifelongLearning
+BR23110*,BR23110 Principles Of Veterinary Science*,32,D,Padarn 1.00,Monday,06/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+BRM3720,BRM3720 Microbial Biotechnology,6,A,Arts Centre - Great Hall,Monday,06/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+BS32720,BS32720 Population & Community Ecology,2,A,Arts Centre - Great Hall,Monday,06/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+CHM5720*,CHM5720 The Internet And How It ReallyWorks*,7,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,Computer Science
+CR12220*,CR12220 Criminal Law For Criminologists*,26,D,Padarn 1.00,Monday,06/01/14,9:30,2 Hours,Law & Criminology
+CS10110,"CS10110 Introduction To Computer Hardware, Operating Systems And Unix Tools",247,,"XB23, 112 & CS PC Lab",Monday,06/01/14,9:30,2 Hours,Computer Science
+CSM4220,CSM4220 Fundamental Techniques For 3dImaging And Analysis,2,BB,Penbryn - MedRus 1 Wasdell,Monday,06/01/14,9:30,2 Hours,Computer Science
+DA22510*,DA22510 Geomorffoleg Afonol*,15,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,Geography & EarthSciences
+ECM4520,ECM4520 International Financial Regulation,21,A,Arts Centre - Great Hall,Monday,06/01/14,9:30,3 Hours,Management &Business
+ED30120*,ED30120(a) Critically Reflecting AndEvaluating Learning And Skills*,75,,Departmental Room,Monday,06/01/14,9:30,6 Hours,Education & LifelongLearning
+FG26020*,FG26020 Ffiseg Mathemategol*,17,A,Arts Centre - Great Hall,Monday,06/01/14,9:30,3 Hours,Mathematics &Physics
+GC10620*,GC10620 Cyflwyniad I Wyddeleg Modern A'ILlenyddiaeth 1*,4,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,Welsh
+GC20620*,GC20620 Cyflwyniad I Wyddeleg Modern A'ILlenyddiaeth I*,2,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,Welsh
+GG22610*,GG22610 Catchment Systems*,105,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,Geography & EarthSciences
+GW10420*,GW10420 Cyflwyniad WleidyddiaethRyngwladol*,8,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,International Politics
+IP10420*,IP10420 Introduction To InternationalPolitics*,208,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,International Politics
+IR10620*,IR10620 Introduction To Modern IrishLanguage 1*,4,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,Welsh
+LA17120R*,LA17120 European Law 1 (RESIT STUDENTONLY)*,1,D,Padarn 1.00,Monday,06/01/14,9:30,2 Hours,Law & Criminology
+LA37120*,LA37120 European Law 1*,1,D,Padarn 1.00,Monday,06/01/14,9:30,2 Hours,Law & Criminology
+MP26020*,MP26020 Mathematical Physics*,143,A,Arts Centre - Great Hall,Monday,06/01/14,9:30,3 Hours,Mathematics &Physics
+PH01010*,PH01010 Introduction To Physical Forces*,34,BB,Penbryn - MedRus 1 Wasdell,Monday,06/01/14,9:30,2 Hours,Mathematics &Physics
+PH10110*,PH10110 Physical Forces*,1,BB,Penbryn - MedRus 1 Wasdell,Monday,06/01/14,9:30,2 Hours,Mathematics &Physics
+PS11420,PS11420 Perspectives On Social And Individual Behaviour,105,B,Penbryn - MedRus Mawr,Monday,06/01/14,9:30,2 Hours,Psychology
+RD23010*,RD23010 Principles Of Veterinary Science*,14,D,Padarn 1.00,Monday,06/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+SEM5720*,SEM5720 The Internet And How It ReallyWorks*,4,C,Sports Cage,Monday,06/01/14,9:30,2 Hours,Computer Science
+SS19220,SS19220 Research In Sport & ExerciseScience 1,88,PC,XB23 Llandinam,Monday,06/01/14,9:30,2 Hours,Sport & ExerciseScience
+BG11520*,BG11520 Amrywiaeth Anifeiliaid*,12,B,Penbryn - MedRus Mawr,Monday,06/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR11520*,BR11520 Animal Diversity*,347,C,Sports Cage,Monday,06/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+CS37420*,"CS37420 E-Commerce: Implementation,Management And Security*",53,B,Penbryn - MedRus Mawr,Monday,06/01/14,14:00,2 Hours,Computer Science
+EN20720,EN20720 Nineteenth Century Literature,149,A,Arts Centre - Great Hall,Monday,06/01/14,14:00,3 Hours,English and CreativeWriting
+HC33130*,HC33130 Cymru A'R Tuduriaid 1530-1603*,10,A,Arts Centre - Great Hall,Monday,06/01/14,14:00,3 Hours,History & WelshHistory
+HC34130*,HC34130 Cymdeithas Cymru Fodern 1868-1950*,7,A,Arts Centre - Great Hall,Monday,06/01/14,14:00,3 Hours,History & WelshHistory
+RD20420*,"RD20420 Food, Farming And TheEnvironment*",28,B,Penbryn - MedRus Mawr,Monday,06/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+RG20420*,"RG20420 Bwyd, Ffermio A'R Amgylchedd*",4,B,Penbryn - MedRus Mawr,Monday,06/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+SE31520*,SE31520 Developing Internet-BasedApplications*,61,B,Penbryn - MedRus Mawr,Monday,06/01/14,14:00,2 Hours,Computer Science
+WH33130*,WH33130 Wales Under The Tudors*,30,A,Arts Centre - Great Hall,Monday,06/01/14,14:00,3 Hours,History & WelshHistory
+WH34130*,WH34130 Modern Welsh Society 1868-1950*,9,A,Arts Centre - Great Hall,Monday,06/01/14,14:00,3 Hours,History & WelshHistory
+BR11310,BR11310 Genetics,331,C,Sports Cage,Tuesday,07/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR11610,BR11610 Introduction To Biology,30,D,Padarn 1.00,Tuesday,07/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR33820,BR33820 Parasitology,120,A,Arts Centre - Great Hall,Tuesday,07/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+CY33020,CY33020 Y Canu Arwrol Cynnar,8,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,Welsh
+DA10610*,DA10610 Amgylcheddau Wyneb Y Ddaear*,10,,X112 & XB23,Tuesday,07/01/14,9:30,1.5 Hours,Geography & EarthSciences
+ED30120*,ED30120(b) Critically Reflecting AndEvaluating Learning And Skills*,75,,Departmental Room,Tuesday,07/01/14,9:30,6 Hours,Education & LifelongLearning
+FG11010*,FG11010 Ffiseg Glasurol*,5,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,Mathematics &Physics
+FR23120*,FR23120 Langues Regionales Et Dialectes DeFrance*,2,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,European Languages
+FR33120*,FR33120 Langues Regionales Et Dialectes DeFrance*,14,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,European Languages
+GE20420,GE20420 An Introduction To Variation InGerman,2,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,European Languages
+GG10610*,GG10610 Earth Surface Environments*,161,,X112 & XB23,Tuesday,07/01/14,9:30,1.5 Hours,Geography & EarthSciences
+LA30510,"LA30510 Human Rights - Theories,Institutions & Remedies",1,D,Padarn 1.00,Tuesday,07/01/14,9:30,1.5 Hours,Law & Criminology
+LA36220,LA36220 Constitutional Law,5,D,Padarn 1.00,Tuesday,07/01/14,9:30,1.5 Hours,Law & Criminology
+MA38110,MA38110 Queueing And Reliability,2,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,Mathematics
+MP35610,MP35610 Quantum Information Theory 1,40,D,Padarn 1.00,Tuesday,07/01/14,9:30,2 Hours,Mathematics
+PH11010*,PH11010 Classical Physics*,95,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,Mathematics &Physics
+SS23120,SS23120 Sport & Exercise Psychology,84,A,Arts Centre - Great Hall,Tuesday,07/01/14,9:30,3 Hours,Sport & ExerciseScience
+TC21020,TC21020 Y Theatr Gyfoes,2,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,9:30,2 Hours,"Theatre, Film &Television Studies"
+AD10120*,AD10120 Polisiau A Materion Mewn Addysg*,21,A,Arts Centre - Great Hall,Tuesday,07/01/14,14:00,2 Hours,Education & LifelongLearning
+BG21920*,"BG21920 Bwyd, Ffermio A'R Amgylchedd*",11,D,Padarn 1.00,Tuesday,07/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR00410*,BR00410 Biological Organisation And Design*,35,DD,Padarn 1.05,Tuesday,07/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR21520*,BR21520 Equine And Human ExercisePhysiology*,12,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR21920*,"BR21920 Food, Farming And TheEnvironment*",39,D,Padarn 1.00,Tuesday,07/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR22410,BR22410 Advances In Invertebrate Zoology,136,C,Sports Cage,Tuesday,07/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR31110*,BR31110 Equine Exercise Physiology*,12,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+CS32310,CS32310 Advanced Computer Graphics,14,DD,Padarn 1.05,Tuesday,07/01/14,14:00,2 Hours,Computer Science
+CY33920,"CY33920 Llenyddiaeth Glasurol APhoblogaidd, 1740-1800",9,BB,Penbryn - MedRus 1 Wasdell,Tuesday,07/01/14,14:00,2 Hours,Welsh
+ED10120*,ED10120 Policies And Issues In Education*,87,A,Arts Centre - Great Hall,Tuesday,07/01/14,14:00,2 Hours,Education & LifelongLearning
+FR39020,"FR39020 The Nature Of The Beast: Animal,Human, Monster",4,D,Padarn 1.00,Tuesday,07/01/14,14:00,2 Hours,European Languages
+HC11520*,HC11520 Cymru A'R Byd: Cysylltiadau ADylanwadau 1860 - 2000*,17,BB,Penbryn - MedRus 1 Wasdell,Tuesday,07/01/14,14:00,2 Hours,History & WelshHistory
+IP31920,IP31920 The Vietnam War,133,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,14:00,2 Hours,International Politics
+IT20610*,IT20610 Italian Cinema: Neorealism*,1,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,14:00,2 Hours,European Languages
+IT30610*,IT30610 Italian Cinema: Neorealism*,4,B,Penbryn - MedRus Mawr,Tuesday,07/01/14,14:00,2 Hours,European Languages
+LL10120*,LL10120 Llydaweg I Ddechreuwyr I*,6,A,Arts Centre - Great Hall,Tuesday,07/01/14,14:00,2 Hours,Welsh
+LL20120*,LL20120 Llydaweg I Ddechreuwyr I*,3,A,Arts Centre - Great Hall,Tuesday,07/01/14,14:00,2 Hours,Welsh
+MA20110*,MA20110 Real Analysis*,77,A,Arts Centre - Great Hall,Tuesday,07/01/14,14:00,2 Hours,Mathematics
+MM10120,MM10120 Marketing Principles,221,C,Sports Cage,Tuesday,07/01/14,14:00,2 Hours,Management &Business
+MT20110*,MT20110 Dadansoddiad Real*,10,A,Arts Centre - Great Hall,Tuesday,07/01/14,14:00,2 Hours,Mathematics
+PH03010*,PH03010 Introduction To The Physics OfMatter*,34,D,Padarn 1.00,Tuesday,07/01/14,14:00,2 Hours,Mathematics &Physics
+PH10310*,PH10310 Physics Of Matter*,1,D,Padarn 1.00,Tuesday,07/01/14,14:00,2 Hours,Mathematics &Physics
+WE11220*,WE11220 Beginning Modern Welsh 1*,8,D,Padarn 1.00,Tuesday,07/01/14,14:00,2 Hours,Welsh
+WEM1120*,WEM1120 Welsh Language 1*,3,D,Padarn 1.00,Tuesday,07/01/14,14:00,2 Hours,Welsh
+WH11520*,"WH11520 Wales And The World: Connections And Influences, 1860-2000*",12,BB,Penbryn - MedRus 1 Wasdell,Tuesday,07/01/14,14:00,2 Hours,History & WelshHistory
+AD20120*,AD20120 Seicoleg Dysgu A Meddwl*,6,D,Padarn 1.00,Wednesday,08/01/14,9:30,2 Hours,Education & LifelongLearning
+AH32820,AH32820 The Gothic Imagination,46,DD,Padarn 1.05,Wednesday,08/01/14,9:30,2 Hours,Art
+BRM0110,BRM0110 Animal Breeding And Genetics,23,B,Penbryn - MedRus Mawr,Wednesday,08/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+CS12130,CS12130 Concepts In Programming,85,,XB23 Llandinam,Wednesday,08/01/14,9:30,2.5 Hours,Computer Science
+CS22120,CS22120 The Software Development LifeCycle,153,C,Sports Cage,Wednesday,08/01/14,9:30,2 Hours,Computer Science
+CS35710*,CS35710 Ubiquitous Computing*,72,B,Penbryn - MedRus Mawr,Wednesday,08/01/14,9:30,2 Hours,Computer Science
+EA12210,EA12210 The Atmosphere And The WaterCycle,191,,X112 & XB23,Wednesday,08/01/14,9:30,1.5 Hours,Geography & EarthSciences
+ED20120*,ED20120 Psychology Of Learning AndThinking*,62,D,Padarn 1.00,Wednesday,08/01/14,9:30,2 Hours,Education & LifelongLearning
+ED30120*,ED30120(c) Critically Reflecting AndEvaluating Learning And Skills*,75,,Departmental Room,Wednesday,08/01/14,9:30,6 Hours,Education & LifelongLearning
+EL20220*,EL20220 Romance Linguistics*,11,D,Padarn 1.00,Wednesday,08/01/14,9:30,2 Hours,European Languages
+EL30320*,EL30320 Romance Linguistics*,7,D,Padarn 1.00,Wednesday,08/01/14,9:30,2 Hours,European Languages
+GE31010,GE31010 The Language Of German Politics,14,BB,Penbryn - MedRus 1 Wasdell,Wednesday,08/01/14,9:30,2 Hours,European Languages
+GW12320*,GW12320 Gwleidyddiaeth Y Byd YngNghyfnod Y Ddau Ryfel Byd*,8,C,Sports Cage,Wednesday,08/01/14,9:30,2 Hours,International Politics
+HA31920,HA31920 Y Rhyfel Mawr Trwy Lygaid Y Cymry,11,D,Padarn 1.00,Wednesday,08/01/14,9:30,2 Hours,History & WelshHistory
+IP12320*,IP12320 World Politics In The Age Of TheTwo World Wars*,185,C,Sports Cage,Wednesday,08/01/14,9:30,2 Hours,International Politics
+MA10020*,MA10020(b) - Calculus*,166,A,Arts Centre - Great Hall,Wednesday,08/01/14,9:30,2 Hours,Mathematics
+MA37210*,MA37210 Time Series Analysis*,58,B,Penbryn - MedRus Mawr,Wednesday,08/01/14,9:30,2 Hours,Mathematics
+MAM7220*,MAM7220 Linear & Non-Linear Time Series*,7,B,Penbryn - MedRus Mawr,Wednesday,08/01/14,9:30,2 Hours,Mathematics
+MMM2620,MMM2620 International Management,8,C,Sports Cage,Wednesday,08/01/14,9:30,2 Hours,Management &Business
+MT10020*,MT10020(b) - Chalcwlws*,21,A,Arts Centre - Great Hall,Wednesday,08/01/14,9:30,2 Hours,Mathematics
+TP20320,TP20320 Modern European Drama,15,BB,Penbryn - MedRus 1 Wasdell,Wednesday,08/01/14,9:30,2 Hours,"Theatre, Film &Television Studies"
+TP20620,TP20620 Contemporary American Voices,9,BB,Penbryn - MedRus 1 Wasdell,Wednesday,08/01/14,9:30,2 Hours,"Theatre, Film &Television Studies"
+BR00310,BR00310 Cell Biology,35,D,Padarn 1.00,Wednesday,08/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR21620,BR21620 Ethology,115,C,Sports Cage,Wednesday,08/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR31810,BR31810 Conservation Genetics,92,C,Sports Cage,Wednesday,08/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+CY12510*,CY12510 Cymraeg Llyfr A Chymraeg Llafar I*,31,B,Penbryn - MedRus Mawr,Wednesday,08/01/14,14:00,2 Hours,Welsh
+CY20210*,CY20210 Cymraeg Llyfr A Chymraeg Llafar I*,6,B,Penbryn - MedRus Mawr,Wednesday,08/01/14,14:00,2 Hours,Welsh
+EC31120,EC31120 Advanced Topics InMacroeconomics,48,A,Arts Centre - Great Hall,Wednesday,08/01/14,14:00,3 Hours,Management &Business
+GF39220*,GF39220 Cyflwyniad I Droseddeg*,4,D,Padarn 1.00,Wednesday,08/01/14,14:00,1.5 Hours,Law & Criminology
+GG33020,"GG33020 Soil, Geochemistry AndEnvironment",95,C,Sports Cage,Wednesday,08/01/14,14:00,2 Hours,Geography & EarthSciences
+IQ31420,IQ31420 Internet Freedom In Global Politics,105,B,Penbryn - MedRus Mawr,Wednesday,08/01/14,14:00,2 Hours,International Politics
+LA39220*,LA39220 Introduction To Criminology*,64,D,Padarn 1.00,Wednesday,08/01/14,14:00,1.5 Hours,Law & Criminology
+MM33220,"MM33220 Firms, Markets And Pricing",120,A,Arts Centre - Great Hall,Wednesday,08/01/14,14:00,3 Hours,Management &Business
+PH06020,PH06020 Introduction To MathematicalMethods For Physicists I,34,A,Arts Centre - Great Hall,Wednesday,08/01/14,14:00,3 Hours,Mathematics &Physics
+BR12320,BR12320 People And The Countryside,30,C,Sports Cage,Thursday,09/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+CS35910,CS35910 Internet Services Administration,28,C,Sports Cage,Thursday,09/01/14,9:30,2 Hours,Computer Science
+CY33220,CY33220 Dafydd Ap Gwilym A'I Gyfoeswyr,29,C,Sports Cage,Thursday,09/01/14,9:30,2 Hours,Welsh
+EA11510,EA11510 Planet Earth,167,,X112 & XB23,Thursday,09/01/14,9:30,1.5 Hours,Geography & EarthSciences
+FR26020R,FR26020 Humour In French Literature (RESITSTUDENT ONLY),1,D,Padarn 1.00,Thursday,09/01/14,9:30,2 Hours,European Languages
+GG23410,GG23410 Sedimentary Environments,27,C,Sports Cage,Thursday,09/01/14,9:30,1.5 Hours,Geography & EarthSciences
+GG33120,GG33120 Palaeoenvironmental ChangeBeyond The Ice Sheets,34,BB,Penbryn - MedRus 1 Wasdell,Thursday,09/01/14,9:30,2 Hours,Geography & EarthSciences
+HA13820*,HA13820 Oes Y Fictoriaid*,13,B,Penbryn - MedRus Mawr,Thursday,09/01/14,9:30,2 Hours,History & WelshHistory
+HY13820*,HY13820 The Victorian Age*,43,B,Penbryn - MedRus Mawr,Thursday,09/01/14,9:30,2 Hours,History & WelshHistory
+IL32520,IL32520 Management Of Organisations,14,A,Arts Centre - Great Hall,Thursday,09/01/14,9:30,2 Hours,Information Studies
+IQ31920,IQ31920 Ideologies Of Globalization,32,C,Sports Cage,Thursday,09/01/14,9:30,2 Hours,International Politics
+LA33210,LA33210 Origins Of The Common Law,48,DD,Padarn 1.05,Thursday,09/01/14,9:30,1.5 Hours,Law & Criminology
+MA10020*,MA10020(a) - Algebra*,167,A,Arts Centre - Great Hall,Thursday,09/01/14,9:30,2 Hours,Mathematics
+MA33110*,MA33110 Linear Programming*,82,B,Penbryn - MedRus Mawr,Thursday,09/01/14,9:30,2 Hours,Mathematics
+MT10020*,MT10020(a) - Algebra*,21,A,Arts Centre - Great Hall,Thursday,09/01/14,9:30,2 Hours,Mathematics
+MT33110*,MT33110 Rhaglennu Llinol*,3,A,Arts Centre - Great Hall,Thursday,09/01/14,9:30,2 Hours,Mathematics
+PH34610,PH34610 Galaxies,44,C,Sports Cage,Thursday,09/01/14,9:30,2 Hours,Mathematics &Physics
+PS20420*,PS20420 Cognitive Psychology*,58,D,Padarn 1.00,Thursday,09/01/14,9:30,2 Hours,Psychology
+PS34220*,PS34220 Cognitive Psychology For JointHonours*,43,D,Padarn 1.00,Thursday,09/01/14,9:30,2 Hours,Psychology
+RD10120,RD10120 Making The British Countryside,33,C,Sports Cage,Thursday,09/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+RD11110,RD11110 Agricultural Technology,25,C,Sports Cage,Thursday,09/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+RD22420,"RD22420 Applied Nutrition Of Livestock, Horses And Companion Animals",21,C,Sports Cage,Thursday,09/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+RD22810,RD22810 Human Impact On TheEnvironment,24,B,Penbryn - MedRus Mawr,Thursday,09/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+SS12220,SS12220 Musculo-Skeletal Systems,88,C,Sports Cage,Thursday,09/01/14,9:30,1.5 Hours,Sport & ExerciseScience
+TC33240,TC33240(a) - Cynhyrchu Teledu Uwch,3,,Departmental Room,Thursday,09/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+BR10210,BR10210 Agricultural Technology,36,D,Padarn 1.00,Thursday,09/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR10510,BR10510 Chemical Basis Of Biology,43,DD,Padarn 1.05,Thursday,09/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR10910*,BR10910 Equine Anatomy And Physiology*,40,D,Padarn 1.00,Thursday,09/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR21310,BR21310 Companion Animal Health,22,C,Sports Cage,Thursday,09/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR22310,BR22310 Infectious Diseases,50,B,Penbryn - MedRus Mawr,Thursday,09/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR24410,BR24410 Understanding Biological Research,19,C,Sports Cage,Thursday,09/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+BRM2610,BRM2610 Principles Of Nutrition,23,C,Sports Cage,Thursday,09/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+CS10610,CS10610 Databases,78,C,Sports Cage,Thursday,09/01/14,14:00,1.5 Hours,Computer Science
+CS25010,CS25010 Web Programming,104,C,Sports Cage,Thursday,09/01/14,14:00,2 Hours,Computer Science
+CY10710,CY10710 Cymraeg Ysgrifenedig 1,9,B,Penbryn - MedRus Mawr,Thursday,09/01/14,14:00,2 Hours,Welsh
+DA31620,DA31620 Adnoddau Dwr A Hydroleg Bydol,11,C,Sports Cage,Thursday,09/01/14,14:00,2 Hours,Geography & EarthSciences
+EC33120,EC33120 International Trade And TradePolicy,45,B,Penbryn - MedRus Mawr,Thursday,09/01/14,14:00,2 Hours,Management &Business
+ECM3020,ECM3020 Emerging Financial Markets,21,A,Arts Centre - Great Hall,Thursday,09/01/14,14:00,3 Hours,Management &Business
+EN10020,EN10020 Encountering Texts,181,A,Arts Centre - Great Hall,Thursday,09/01/14,14:00,2 Hours,English and CreativeWriting
+FR26020,FR26020 Humour In French Literature,6,B,Penbryn - MedRus Mawr,Thursday,09/01/14,14:00,2 Hours,European Languages
+GW11220*,GW11220 Defnyddio Syniadau Gwleidyddol*,6,BB,Penbryn - MedRus 1 Wasdell,Thursday,09/01/14,14:00,2 Hours,International Politics
+HY10820,HY10820 Capitalism And The Making Of TheModern World 1850-2025,24,BB,Penbryn - MedRus 1 Wasdell,Thursday,09/01/14,14:00,2 Hours,History & WelshHistory
+IL31320,IL31320 Information And Society,21,C,Sports Cage,Thursday,09/01/14,14:00,2 Hours,Information Studies
+MM39020,MM39020 Adventure Tourism,19,C,Sports Cage,Thursday,09/01/14,14:00,1.5 Hours,Management &Business
+MM39520,MM39520 Sustainable Tourism,49,B,Penbryn - MedRus Mawr,Thursday,09/01/14,14:00,2 Hours,Management &Business
+MMM4320,MMM4320 Marketing Theory,15,C,Sports Cage,Thursday,09/01/14,14:00,2 Hours,Management &Business
+PH34510,PH34510 Optronics,20,C,Sports Cage,Thursday,09/01/14,14:00,2 Hours,Mathematics &Physics
+RD16710*,RD16710 Equine Anatomy*,18,D,Padarn 1.00,Thursday,09/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR20720,"BR20720 Applied Nutrition Of Livestock, Horses And Companion Animals",54,C,Sports Cage,Friday,10/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+BR21120,"BR21120 Climate Change: Plants, AnimalsAnd Ecosystems",33,C,Sports Cage,Friday,10/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+BR33920,BR33920 Population And Community Ecology,130,A,Arts Centre - Great Hall,Friday,10/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+CS12230,CS12230 Introduction To Programming,140,,X112 & XB23,Friday,10/01/14,9:30,2 Hours,Computer Science
+CS38110,CS38110 Open Source Development Issues,59,C,Sports Cage,Friday,10/01/14,9:30,2 Hours,Computer Science
+CY35220,CY35220 Barddoniaeth Gymraeg Ddiweddar(1979-),44,C,Sports Cage,Friday,10/01/14,9:30,2 Hours,Welsh
+EA22310,EA22310 Earth Materials I: Introduction ToGeochemistry,34,C,Sports Cage,Friday,10/01/14,9:30,2 Hours,Geography & EarthSciences
+FR33320,FR33320 L'Art Du Récit (19e - 20e Siècles),4,D,Padarn 1.00,Friday,10/01/14,9:30,2 Hours,European Languages
+GC21910,GC21910 Hen Wyddeleg (Iaith A Lle^N) I,2,B,Penbryn - MedRus Mawr,Friday,10/01/14,9:30,2 Hours,Welsh
+HY12020,HY12020 Russia Since 1900,59,C,Sports Cage,Friday,10/01/14,9:30,2 Hours,History & WelshHistory
+HY35930,"HY35930 The Atlantic World, 1500 -1800",53,A,Arts Centre - Great Hall,Friday,10/01/14,9:30,3 Hours,History & WelshHistory
+HY36230,HY36230 The British Isles And The 'English'Revolution,13,A,Arts Centre - Great Hall,Friday,10/01/14,9:30,3 Hours,History & WelshHistory
+LA36320*,LA36320 Criminal Justice And The PenalSystem*,84,D,Padarn 1.00,Friday,10/01/14,9:30,2 Hours,Law & Criminology
+LA36320R*,LA36320 Criminal Justice And the PenalSystem (RESIT ONLY 2012-13)*,1,D,Padarn 1.00,Friday,10/01/14,9:30,2 Hours,Law & Criminology
+MA30510,MA30510 Geometry Of Complex Numbers,63,B,Penbryn - MedRus Mawr,Friday,10/01/14,9:30,2 Hours,Mathematics
+MM31420,MM31420 Consumer Behaviour,62,B,Penbryn - MedRus Mawr,Friday,10/01/14,9:30,2 Hours,Management &Business
+MMM2320,MMM2320 Political Economy OfInternational Business,8,A,Arts Centre - Great Hall,Friday,10/01/14,9:30,3 Hours,Management &Business
+PH24610,PH24610 Stars,39,C,Sports Cage,Friday,10/01/14,9:30,2 Hours,Mathematics &Physics
+TC33240(b),TC33240(b) - Cynhyrchu Teledu Uwch,3,,Departmental Room,Friday,10/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+TP21720,TP21720 Devising Theatre,15,,Departmental Room,Friday,10/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+AC10510,AC10510 Introduction To ManagementAccounting,88,A,Arts Centre - Great Hall,Friday,10/01/14,14:00,2 Hours,Management &Business
+CS25410,CS25410 Computer Architecture AndHardware,56,A,Arts Centre - Great Hall,Friday,10/01/14,14:00,2 Hours,Computer Science
+EA11710,EA11710 The Dynamic Earth,61,A,Arts Centre - Great Hall,Friday,10/01/14,14:00,2 Hours,Geography & EarthSciences
+GF14230*,GF14230 Systemau A Sgiliau Cyfreithiol*,6,C,Sports Cage,Friday,10/01/14,14:00,1.5 Hours,Law & Criminology
+IQ30420,IQ30420 International Statebuilding:Reconstructing War-Torn States,118,B,Penbryn - MedRus Mawr,Friday,10/01/14,14:00,2 Hours,International Politics
+LA14230*,LA14230 Legal Systems And Skills*,69,C,Sports Cage,Friday,10/01/14,14:00,1.5 Hours,Law & Criminology
+LA14720*,LA14720 Legal Systems And Skills For BaLaw*,23,C,Sports Cage,Friday,10/01/14,14:00,1.5 Hours,Law & Criminology
+LA15710,LA15710 Foundations Of Law,80,D,Padarn 1.00,Friday,10/01/14,14:00,1.5 Hours,Law & Criminology
+LA34230*,LA34230 Legal Systems And Skills*,14,C,Sports Cage,Friday,10/01/14,14:00,1.5 Hours,Law & Criminology
+AH30510,AH30510 History Of Graphic Art1:BritishIllustration Since 18th Cent,27,BB,Penbryn - MedRus 1 Wasdell,Saturday,11/01/14,9:30,2 Hours,Art
+BR11710,BR11710 Biological Molecules And Methods,343,C,Sports Cage,Saturday,11/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+CS34110,CS34110 Computer Vision,40,B,Penbryn - MedRus Mawr,Saturday,11/01/14,9:30,2 Hours,Computer Science
+EC11110,EC11110 Hot Topics In Economics,98,D,Padarn 1.00,Saturday,11/01/14,9:30,1.5 Hours,Management &Business
+EN20520,EN20520 Medieval And Renaissance Writing,94,A,Arts Centre - Great Hall,Saturday,11/01/14,9:30,3 Hours,English and CreativeWriting
+MA36510,MA36510 Linear Statistical Models,41,B,Penbryn - MedRus Mawr,Saturday,11/01/14,9:30,2 Hours,Mathematics
+PH32410,PH32410 Condensed Matter 1,72,B,Penbryn - MedRus Mawr,Saturday,11/01/14,9:30,2 Hours,Mathematics &Physics
+SP31410,SP31410 Actualidades,45,A,Arts Centre - Great Hall,Saturday,11/01/14,9:30,2 Hours,European Languages
+BR00120,BR00120 Chemistry For The Life Sciences,35,C,Sports Cage,Saturday,11/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR22720,BR22720 Molecular Cell And Cancer Biology,74,D,Padarn 1.00,Saturday,11/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+CR31220,CR31220 Psychology And Crime,113,B,Penbryn - MedRus Mawr,Saturday,11/01/14,14:00,1.5 Hours,Law & Criminology
+CS10510*,CS10510 Further Mathematics For ComputerScience*,92,C,Sports Cage,Saturday,11/01/14,14:00,2 Hours,Computer Science
+CS20410*,CS20410 The Advanced Mathematics DrivingLicense For Computer Science*,49,C,Sports Cage,Saturday,11/01/14,14:00,2 Hours,Computer Science
+GQ30720*,"GQ30720 Globaleiddio, Gwrthiant A NewidYng Ngwleidyddiaeth Y Byd*",10,A,Arts Centre - Great Hall,Saturday,11/01/14,14:00,2 Hours,International Politics
+IQ30720*,"IQ30720 Globalization, Resistance AndChange In World Politics*",109,A,Arts Centre - Great Hall,Saturday,11/01/14,14:00,2 Hours,International Politics
+BR13210,BR13210 The Biosphere,130,C,Sports Cage,Monday,13/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+BRM0610,"BRM0610 Endocrinology, Growth AndDevelopment",23,A,Arts Centre - Great Hall,Monday,13/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+BRM3920,BRM3920 Crop Genomics And GeneticEngineering,6,A,Arts Centre - Great Hall,Monday,13/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+CR30720,CR30720 Critical Criminology,38,D,Padarn 1.00,Monday,13/01/14,9:30,1.5 Hours,Law & Criminology
+CY10610,CY10610 Llenyddiaeth O 1900 Hyd Heddiw,9,A,Arts Centre - Great Hall,Monday,13/01/14,9:30,2 Hours,Welsh
+CY35020,CY35020 Y Gymraeg: Iaith Dysg Ac IaithCymdeithas,9,B,Penbryn - MedRus Mawr,Monday,13/01/14,9:30,2 Hours,Welsh
+EN10120,"EN10120 Re-Writing, Re-Visioning Texts",119,C,Sports Cage,Monday,13/01/14,9:30,1.5 Hours,English and CreativeWriting
+GG10210,GG10210 The City And Country: Processes OfConflict And Change,114,B,Penbryn - MedRus Mawr,Monday,13/01/14,9:30,2 Hours,Geography & EarthSciences
+IQ30820,IQ30820 Global Economic Governance,107,C,Sports Cage,Monday,13/01/14,9:30,2 Hours,International Politics
+MA34110*,MA34110 Partial Differential Equations*,54,D,Padarn 1.00,Monday,13/01/14,9:30,2 Hours,Mathematics
+MP14010*,MP14010 Classical Dynamics*,152,A,Arts Centre - Great Hall,Monday,13/01/14,9:30,2 Hours,Mathematics &Physics
+MT14010*,MT14010 Dynameg Glasurol*,14,A,Arts Centre - Great Hall,Monday,13/01/14,9:30,2 Hours,Mathematics
+MT34110*,MT34110 Hafaliadau Differol Rhannol*,3,D,Padarn 1.00,Monday,13/01/14,9:30,2 Hours,Mathematics
+BR12510,BR12510 Biological Thought And Discovery,79,C,Sports Cage,Monday,13/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR30510,BR30510 Animal Bioethics,98,D,Padarn 1.00,Monday,13/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+ED10620,ED10620 Early Years Provision: PrinciplesAnd Practice,65,B,Penbryn - MedRus Mawr,Monday,13/01/14,14:00,2 Hours,Education & LifelongLearning
+GG21110,GG21110 Reading The Ice Age Record,84,C,Sports Cage,Monday,13/01/14,14:00,2 Hours,Geography & EarthSciences
+GG30420,GG30420 River Systems And GlobalEnvironmental Change,27,BB,Penbryn - MedRus 1 Wasdell,Monday,13/01/14,14:00,2 Hours,Geography & EarthSciences
+HY12920,"HY12920 Raid, Trade, Explore: AnIntroduction To The Viking Age, C. 800-1100",43,DD,Padarn 1.05,Monday,13/01/14,14:00,2 Hours,History & WelshHistory
+HY31520,"HY31520 Modern Europe, 1789-1955",183,A,Arts Centre - Great Hall,Monday,13/01/14,14:00,2 Hours,History & WelshHistory
+MA12610*,MA12610 Mathematics For Economics AndFinance 1*,89,C,Sports Cage,Monday,13/01/14,14:00,2 Hours,Mathematics
+MM35420,"MM35420 Corporate Responsibility, EthicsAnd Governance",20,A,Arts Centre - Great Hall,Monday,13/01/14,14:00,3 Hours,Management &Business
+PH21510,PH21510 Thermal Physics,93,B,Penbryn - MedRus Mawr,Monday,13/01/14,14:00,2 Hours,Mathematics &Physics
+PHM2510,PHM2510 Electromagnetic Theory,20,C,Sports Cage,Monday,13/01/14,14:00,2 Hours,Mathematics &Physics
+SS22120,SS22120 Sport & Exercise Physiology,81,C,Sports Cage,Monday,13/01/14,14:00,2 Hours,Sport & ExerciseScience
+AH30910,AH30910 Contemporary Art 1:ModernistPainting In America 1914-1970,26,C,Sports Cage,Tuesday,14/01/14,9:30,2 Hours,Art
+BR11220,BR11220 Equine Industry And Study Tour,13,C,Sports Cage,Tuesday,14/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR13110,BR13110 Animal Life,18,C,Sports Cage,Tuesday,14/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR31420,BR31420 Bioinformatics And FunctionalGenomics,54,C,Sports Cage,Tuesday,14/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+CS31310,CS31310 Agile Methodologies,114,C,Sports Cage,Tuesday,14/01/14,9:30,2 Hours,Computer Science
+EA30520,EA30520 Oceanography And Marine Geology,16,DD,Padarn 1.05,Tuesday,14/01/14,9:30,2 Hours,Geography & EarthSciences
+GE21010,GE21010 The Language Of Economics,17,B,Penbryn - MedRus Mawr,Tuesday,14/01/14,9:30,2 Hours,European Languages
+GG32020,GG32020 Earth Observation From SatellitesAnd Aircraft,28,DD,Padarn 1.05,Tuesday,14/01/14,9:30,2 Hours,Geography & EarthSciences
+GG36220,GG36220 Landscapes Of British Modernity,57,C,Sports Cage,Tuesday,14/01/14,9:30,2 Hours,Geography & EarthSciences
+HA36830*,HA36830 Menywod A'R Berthynas Rhwng Y Rhywiau Ym Mhrydain C1800-C1950*,5,A,Arts Centre - Great Hall,Tuesday,14/01/14,9:30,3 Hours,History & WelshHistory
+HY15220,HY15220 Modernity And The Making Of Asia,29,BB,Penbryn - MedRus 1 Wasdell,Tuesday,14/01/14,9:30,2 Hours,History & WelshHistory
+HY35230,HY35230 Age Of The Crusades:West & East1070-1291,50,A,Arts Centre - Great Hall,Tuesday,14/01/14,9:30,3 Hours,History & WelshHistory
+HY36830*,HY36830 Women And Gender In Britain C1800 - C 1950*,53,A,Arts Centre - Great Hall,Tuesday,14/01/14,9:30,3 Hours,History & WelshHistory
+MA10310*,MA10310 Probability*,83,D,Padarn 1.00,Tuesday,14/01/14,9:30,2 Hours,Mathematics
+MM34020,MM34020 Business Strategy,143,B,Penbryn - MedRus Mawr,Tuesday,14/01/14,9:30,2 Hours,Management &Business
+MM39120,MM39120 Destination And AttractionManagement,18,C,Sports Cage,Tuesday,14/01/14,9:30,2 Hours,Management &Business
+MMM7320,MMM7320 Markets Consumption AndStrategy,91,A,Arts Centre - Great Hall,Tuesday,14/01/14,9:30,3 Hours,Management &Business
+MT10310*,MT10310 Tebygoleg*,14,D,Padarn 1.00,Tuesday,14/01/14,9:30,2 Hours,Mathematics
+RD11810,RD11810 Equine Industry,18,C,Sports Cage,Tuesday,14/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+TP33420,TP33420 Performance And Architecture,34,,Departmental Room,Tuesday,14/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+TPM1120*,TPM1120 Theoretical Practices*,3,,Departmental Room,Tuesday,14/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+TPM1720*,"TPM1720 Politics, Media And Performance:Making Connections*",6,,Departmental Room,Tuesday,14/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+BR20620,BR20620 Applied Molecular Biology AndBioinformatics,78,A,Arts Centre - Great Hall,Tuesday,14/01/14,14:00,3 Hours,"Biological,Environmental andRural Sciences"
+CS10410,CS10410 The Mathematics Driving LicenseFor Computer Science,125,B,Penbryn - MedRus Mawr,Tuesday,14/01/14,14:00,2 Hours,Computer Science
+DA10210,DA10210 Cefn Gwlad A'R Ddinas,17,BB,Penbryn - MedRus 1 Wasdell,Tuesday,14/01/14,14:00,2 Hours,Geography & EarthSciences
+ED32320,ED32320 Language And Gender,20,A,Arts Centre - Great Hall,Tuesday,14/01/14,14:00,3 Hours,Education & LifelongLearning
+GC10810*,GC10810 Diwylliant Celtaidd I*,7,BB,Penbryn - MedRus 1 Wasdell,Tuesday,14/01/14,14:00,2 Hours,Welsh
+IP32220*,IP32220 Political Theory*,27,B,Penbryn - MedRus Mawr,Tuesday,14/01/14,14:00,2 Hours,International Politics
+IR10810*,IR10810 Celtic Culture 1*,11,BB,Penbryn - MedRus 1 Wasdell,Tuesday,14/01/14,14:00,2 Hours,Welsh
+LA36920,LA36920 International Law,90,D,Padarn 1.00,Tuesday,14/01/14,14:00,1.5 Hours,Law & Criminology
+MA26510,MA26510 Statistical Methods,72,A,Arts Centre - Great Hall,Tuesday,14/01/14,14:00,3 Hours,Mathematics
+MA38410*,MA38410 Introduction To Control Theory*,26,A,Arts Centre - Great Hall,Tuesday,14/01/14,14:00,2 Hours,Mathematics
+MAM8420*,MAM8420 Advanced Control Theory*,8,A,Arts Centre - Great Hall,Tuesday,14/01/14,14:00,3 Hours,Mathematics
+AD12710*,AD12710 Sgiliau Astudio*,11,,Departmental Room,Wednesday,15/01/14,9:30,6 Hours,Education & LifelongLearning
+BR30420,BR30420 The Agri-Environment,57,A,Arts Centre - Great Hall,Wednesday,15/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+BR33620,BR33620 Microbes In Industry And Research,56,A,Arts Centre - Great Hall,Wednesday,15/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+CS23710,CS23710 C And Unix Programming,96,C,Sports Cage,Wednesday,15/01/14,9:30,1.5 Hours,Computer Science
+DA10110,DA10110 Pobl A Lle,15,D,Padarn 1.00,Wednesday,15/01/14,9:30,2 Hours,Geography & EarthSciences
+EC10120*,EC10120 Economic Principles And Skills 1*,69,D,Padarn 1.00,Wednesday,15/01/14,9:30,2 Hours,Management &Business
+EC10510*,EC10510 Economic Principles 1*,4,D,Padarn 1.00,Wednesday,15/01/14,9:30,2 Hours,Management &Business
+ED12710*,ED12710 Study Skills*,55,,Departmental Room,Wednesday,15/01/14,9:30,6 Hours,Education & LifelongLearning
+IP33020,IP33020 Critical Theories,90,C,Sports Cage,Wednesday,15/01/14,9:30,2 Hours,International Politics
+MM33520,MM33520 Human Resource Management,134,B,Penbryn - MedRus Mawr,Wednesday,15/01/14,9:30,2 Hours,Management &Business
+MMM7220,MMM7220 People And Organisations,91,A,Arts Centre - Great Hall,Wednesday,15/01/14,9:30,3 Hours,Management &Business
+PH32510,PH32510 Electromagnetism,77,C,Sports Cage,Wednesday,15/01/14,9:30,2 Hours,Mathematics &Physics
+SS13210,SS13210 Foundations Of Sport Psychology,88,C,Sports Cage,Wednesday,15/01/14,9:30,2 Hours,Sport & ExerciseScience
+TP33120,"TP33120(a) - Theatre, Gender And Sexuality",55,,Departmental Room,Wednesday,15/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+AC32920,AC32920 Financial Accounting 2 Class Test,87,A,Arts Centre - Great Hall,Wednesday,15/01/14,14:00,3 Hours,Management &Business
+BR11920,BR11920 Making The British Countryside,41,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BR20910,BR20910 Aquatic Micro- And Macrophytes,41,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+BRM1620,"BRM1620 Immunology, Parasitology AndBacteriology",23,A,Arts Centre - Great Hall,Wednesday,15/01/14,14:00,3 Hours,"Biological,Environmental andRural Sciences"
+CS36110,CS36110 Machine Learning,51,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,Computer Science
+CY10110,CY10110 Themau A Ffigurau Llen C.550-1900,31,B,Penbryn - MedRus Mawr,Wednesday,15/01/14,14:00,2 Hours,Welsh
+EA22520,EA22520 Earth Resources,40,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,Geography & EarthSciences
+EA30120,EA30120 Environmental Geochemistry,37,A,Arts Centre - Great Hall,Wednesday,15/01/14,14:00,3 Hours,Geography & EarthSciences
+HY37330,"HY37330 War And Peace: The AmericanSouth, 1800-1865",30,A,Arts Centre - Great Hall,Wednesday,15/01/14,14:00,3 Hours,History & WelshHistory
+IL32410,IL32410 Management Information Systems,52,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,Information Studies
+LA30620,LA30620 Human Rights - SubstantiveProtection,77,D,Padarn 1.00,Wednesday,15/01/14,14:00,1.5 Hours,Law & Criminology
+PH19510,"PH19510 Chaos, Communications AndConsciousness",126,B,Penbryn - MedRus Mawr,Wednesday,15/01/14,14:00,2 Hours,Mathematics &Physics
+PH28510,PH28510 The Planets,43,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,Mathematics &Physics
+PH33610,PH33610 Semiconductor Physics,31,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,Mathematics &Physics
+PS31620,PS31620 The Social Psychology Of Music,47,C,Sports Cage,Wednesday,15/01/14,14:00,2 Hours,Psychology
+RD12510,RD12510 Tourism Principles And Impacts,33,BB,Penbryn - MedRus 1 Wasdell,Wednesday,15/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+TP21520,"TP21520 Theatre Management,Administration and Marketing",10,A,Arts Centre - Great Hall,Wednesday,15/01/14,14:00,3 Hours,"Theatre, Film &Television Studies"
+BR22110,BR22110 Human Impact On The Environment,25,A,Arts Centre - Great Hall,Thursday,16/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+BRM2010*,BRM2010 Reproductive Physiology*,22,A,Arts Centre - Great Hall,Thursday,16/01/14,9:30,3 Hours,"Biological,Environmental andRural Sciences"
+CL10120,CL10120 Greek And Roman Epic And Drama,43,A,Arts Centre - Great Hall,Thursday,16/01/14,9:30,3 Hours,English and CreativeWriting
+CS26110,CS26110 The Artificial Intelligence ToolboxPart 1: How To Find Solutions,55,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,Computer Science
+CS28310,CS28310 Introduction To Business ProcessesFor Web Developers,49,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,Computer Science
+EC30220,EC30220 Intermediate Microeconomics;Consumers And Producers,49,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,Management &Business
+GG14210,"GG14210 Power, Place And Development",134,B,Penbryn - MedRus Mawr,Thursday,16/01/14,9:30,2 Hours,Geography & EarthSciences
+GG39920,GG39920 Regional Geographies,30,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,Geography & EarthSciences
+HY11920,"HY11920 Stuart England: War, Political CrisisAnd Social Change 1629-1714",40,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,History & WelshHistory
+MA10110*,MA10110 Coordinate And Vector Geometry*,79,D,Padarn 1.00,Thursday,16/01/14,9:30,2 Hours,Mathematics
+MA37410,MA37410 Probability And StochasticProcesses,58,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,Mathematics
+MMM7120,MMM7120 Financial Analysis And DecisionMaking,93,A,Arts Centre - Great Hall,Thursday,16/01/14,9:30,3 Hours,Management &Business
+MT10110*,MT10110 Geometreg Gyfesurynnol AFectoraidd*,17,D,Padarn 1.00,Thursday,16/01/14,9:30,2 Hours,Mathematics
+PH38410,PH38410 The Solar Atmosphere &Heliosphere,40,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,Mathematics &Physics
+PHM8320,PHM8320 Quantum Technology,21,A,Arts Centre - Great Hall,Thursday,16/01/14,9:30,3 Hours,Mathematics &Physics
+TP20420,TP20420 Theatre In Society,31,C,Sports Cage,Thursday,16/01/14,9:30,2 Hours,"Theatre, Film &Television Studies"
+TP33120-1,"TP33120(b) Theatre, Gender And Sexuality",55,,Departmental Room,Thursday,16/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+AC12220,AC12220 Quantitative Skills And MethodsClass Test,77,A,Arts Centre - Great Hall,Thursday,16/01/14,14:00,1.5 Hours,Management &Business
+BR23310,"BR23310 Reproductive Physiology, GrowthAnd Development",31,A,Arts Centre - Great Hall,Thursday,16/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+CS36510,CS36510 Space Robotics,57,B,Penbryn - MedRus Mawr,Thursday,16/01/14,14:00,2 Hours,Computer Science
+GG32820,GG32820 Geographical Information Systems,70,C,Sports Cage,Thursday,16/01/14,14:00,2 Hours,Geography & EarthSciences
+HY31020,HY31020 The Challenge To Christendom,88,C,Sports Cage,Thursday,16/01/14,14:00,2 Hours,History & WelshHistory
+IQ30620,IQ30620 Cyber Warfare: The ChangingNature Of Security In The Digital Age,96,D,Padarn 1.00,Thursday,16/01/14,14:00,2 Hours,International Politics
+MA20310,MA20310 Introduction To Abstract Algebra,82,C,Sports Cage,Thursday,16/01/14,14:00,2 Hours,Mathematics
+MM30120,MM30120 Marketing Management,93,C,Sports Cage,Thursday,16/01/14,14:00,2 Hours,Management &Business
+MM30520,MM30520 Marketing Communications,52,B,Penbryn - MedRus Mawr,Thursday,16/01/14,14:00,2 Hours,Management &Business
+PS11820,PS11820 Conceptual And Historical Issues InPsychology,84,A,Arts Centre - Great Hall,Thursday,16/01/14,14:00,1.5 Hours,Psychology
+RD12010,RD12010 Introduction To Biology,32,B,Penbryn - MedRus Mawr,Thursday,16/01/14,14:00,1.5 Hours,"Biological,Environmental andRural Sciences"
+AC11020,AC11020 Financial Accounting 1 Class Test,91,A,Arts Centre - Great Hall,Friday,17/01/14,9:30,1.5 Hours,Management &Business
+AH32620,AH32620 Italian Art - 1300-1700,31,A,Arts Centre - Great Hall,Friday,17/01/14,9:30,3 Hours,Art
+BR22810,BR22810 Monitoring The Environment,40,B,Penbryn - MedRus Mawr,Friday,17/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+EN30930,EN30930 Reading Theory/ Reading Text,91,D,Padarn 1.00,Friday,17/01/14,9:30,2 Hours,English and CreativeWriting
+HY30230*,HY30230 Special Subject*,71,C,Sports Cage,Friday,17/01/14,9:30,2 Hours,History & WelshHistory
+IP32720,IP32720 Remembering World War Two,116,B,Penbryn - MedRus Mawr,Friday,17/01/14,9:30,2 Hours,International Politics
+MA26010,MA26010 Distributions And Estimation,82,C,Sports Cage,Friday,17/01/14,9:30,2 Hours,Mathematics
+MA30210,MA30210 Norms And Differential Equations,83,C,Sports Cage,Friday,17/01/14,9:30,2 Hours,Mathematics
+MM30420,MM30420 International Marketing,62,C,Sports Cage,Friday,17/01/14,9:30,2 Hours,Management &Business
+SS32320,SS32320 Exercise Management In Health AndChronic Disease,74,A,Arts Centre - Great Hall,Friday,17/01/14,9:30,2 Hours,Sport & ExerciseScience
+TP24620,TP24620 Voice In Performance,25,,Departmental Room,Friday,17/01/14,9:30,7 Hours,"Theatre, Film &Television Studies"
+BR22620,BR22620 Marine Biology,108,B,Penbryn - MedRus Mawr,Friday,17/01/14,14:00,2 Hours,"Biological,Environmental andRural Sciences"
+LA31210,LA31210 Corporate Governance,84,A,Arts Centre - Great Hall,Friday,17/01/14,14:00,1.5 Hours,Law & Criminology
+PS20220,PS20220 Social Psychology,78,A,Arts Centre - Great Hall,Friday,17/01/14,14:00,1.5 Hours,Psychology
+BR10310,BR10310 Biology Of The Cell,336,C,Sports Cage,Saturday,18/01/14,9:30,1.5 Hours,"Biological,Environmental andRural Sciences"
+BR23210,BR23210 Proteins And Enzymes,64,D,Padarn 1.00,Saturday,18/01/14,9:30,2 Hours,"Biological,Environmental andRural Sciences"
+LA36420,LA36420 Family And Child Law,121,B,Penbryn - MedRus Mawr,Saturday,18/01/14,9:30,1.5 Hours,Law & Criminology
