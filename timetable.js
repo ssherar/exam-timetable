@@ -61,7 +61,7 @@ $(document).ready(function() {
 			$("<td>").text(parsedCSV[i][1]).appendTo(row);
 			$("<td>").text(parsedCSV[i][2]).appendTo(row);
 			$("<td>").text(parsedCSV[i][4]).appendTo(row);
-			$("<td>").text(parsedCSV[i][5]).appendTo(row);
+			$("<td>").text(parsedCSV[i][6]).appendTo(row);
 			$("<td>").text((parsedCSV[i][7] == "9:30") ? "Morning" : "Afternoon").appendTo(row);
 			$("<td>").text(parsedCSV[i][8]).appendTo(row);
 			tbody.append(row);
